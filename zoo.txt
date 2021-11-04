@@ -1,1 +1,5 @@
-Prueba
+Horizon graphs
+exploratory data analysis
+box-and-whisker
+Stem-and-Leaf Plots
+Parallel Coordinates
