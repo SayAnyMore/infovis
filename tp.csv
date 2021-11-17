@@ -1,114 +1,206 @@
 Nombre,Día,Hora,Actividad
-Julián,2021-11-08,07:20,despertarme
-Julián,2021-11-08,07:30,desayunar
-Julián,2021-11-08,07:40,aseo personal
-Julián,2021-11-08,08:00,cambiar a Marilú
-Julián,2021-11-08,08:20,llevar a Marilú al Cole
-Julián,2021-11-08,08:35,gym+ducha 
-Julián,2021-11-08,09:30,trabajo
-Julián,2021-11-08,11:00,break del trabajo
-Julián,2021-11-08,11:20,trabajo
-Julián,2021-11-08,12:30,Almuerzo
-Julián,2021-11-08,13:30,trabajo
-Julián,2021-11-08,15:30,break del trabajo
-Julián,2021-11-08,15:50,trabajo
-Julián,2021-11-08,18:20,aseo personal
-Julián,2021-11-08,18:30,Tiempo de calidad con Marilú
-Julián,2021-11-08,19:50,preparo la cena
-Julián,2021-11-08,20:40,cenamos
-Julián,2021-11-08,21:30,estudio
-Julián,2021-11-08,22:30,ocio
-Julián,2021-11-08,24:00,dormir
-Marilú,2021-11-08,07:30,despierta
-Marilú,2021-11-08,07:40,desayuna
-Marilú,2021-11-08,08:00,Papa me cambia
-Marilú,2021-11-08,08:20,En el Cole
-Marilú,2021-11-08,16:20,Salgo del cole
-Marilú,2021-11-08,17:00,Merienda con Mamá
-Marilú,2021-11-08,18:30,Tiempo con Papá
-Marilú,2021-11-08,19:50,tablet
-Marilú,2021-11-08,20:40,cenamos
-Marilú,2021-11-08,21:30,Tele con Mamá
-Marilú,2021-11-08,22:30,dormir
-Julián,2021-11-09,07:00,despertarme
-Julián,2021-11-09,07:20,desayunar
-Julián,2021-11-09,07:35,aseo personal
-Julián,2021-11-09,07:55,cambiar a Marilú
-Julián,2021-11-09,08:15,llevar a Marilú al Cole
-Julián,2021-11-09,08:27,gym + aseo personal 
-Julián,2021-11-09,09:42,trabajo
-Julián,2021-11-09,11:10,break del trabajo
-Julián,2021-11-09,11:30,trabajo
-Julián,2021-11-09,12:30,Almuerzo
-Julián,2021-11-09,13:40,trabajo
-Julián,2021-11-09,15:30,break del trabajo
-Julián,2021-11-09,15:50,trabajo
-Julián,2021-11-09,18:00,diplomatura
-Julián,2021-11-09,21:40,cena
-Julián,2021-11-09,22:30,ocio
-Julián,2021-11-09,23:50,dormir
-Marilú,2021-11-09,07:40,despierta
-Marilú,2021-11-09,07:50,desayuna
-Marilú,2021-11-09,08:05,Papa me cambia
-Marilú,2021-11-09,08:20,En el Cole
-Marilú,2021-11-09,16:20,Salgo del cole
-Marilú,2021-11-09,17:00,Merienda con Mamá
-Marilú,2021-11-09,18:10,tablet
-Marilú,2021-11-09,19:50,tarea
-Marilú,2021-11-09,20:40,cenan
-Marilú,2021-11-09,21:00,Tele con Mamá
-Marilú,2021-11-09,22:00,dormir
-Julián,2021-11-10,07:00,despertarme
-Julián,2021-11-10,07:15,desayunar
-Julián,2021-11-10,07:35,aseo personal
-Julián,2021-11-10,07:50,cambiar a Marilú
-Julián,2021-11-10,08:10,llevar a Marilú al Cole
-Julián,2021-11-10,08:23,gym + aseo personal 
-Julián,2021-11-10,09:30,trabajo
-Julián,2021-11-10,11:05,break del trabajo
-Julián,2021-11-10,11:20,trabajo
-Julián,2021-11-10,12:50,Almuerzo
-Julián,2021-11-10,13:30,trabajo
-Julián,2021-11-10,15:30,break del trabajo
-Julián,2021-11-10,15:50,trabajo
-Julián,2021-11-10,16:10,traer a Marilú del Cole
-Julián,2021-11-10,17:00,merendar con Marilú
-Julián,2021-11-10,18:30,Tiempo de calidad con Marilú
-Julián,2021-11-10,19:50,preparo la cena
-Julián,2021-11-10,20:30,cena
-Julián,2021-11-10,22:00,ocio
-Julián,2021-11-10,24:30,dormir
-Marilú,2021-11-10,07:50,despierta
-Marilú,2021-11-10,07:55,desayuna
-Marilú,2021-11-10,08:00,Papa me cambia
-Marilú,2021-11-10,08:20,En el Cole
-Marilú,2021-11-10,16:20,Salgo del cole
-Marilú,2021-11-10,17:00,Merienda con Papá
-Marilú,2021-11-10,18:30,Tiempo de calidad con Papá
-Marilú,2021-11-10,19:50,tarea
-Marilú,2021-11-10,20:30,cena
-Marilú,2021-11-10,21:40,Tele con Mamá
-Marilú,2021-11-10,23:30,dormir
-Julián,2021-11-11,07:40,despertarme
-Julián,2021-11-11,07:50,aseo personal
-Julián,2021-11-11,08:00,cambiar a Marilú
-Julián,2021-11-11,08:15,llevar a Marilú al Cole
-Julián,2021-11-11,08:42,trabajo
-Julián,2021-11-11,11:10,break del trabajo
-Julián,2021-11-11,11:30,trabajo
-Julián,2021-11-11,12:30,Almuerzo
-Julián,2021-11-11,13:40,trabajo
-Julián,2021-11-11,15:30,break del trabajo
-Julián,2021-11-11,15:50,trabajo
-Julián,2021-11-11,18:00,diplomatura
-
-
-
-Marilú,2021-11-11,07:40,despierta
-Marilú,2021-11-11,07:50,desayuna
-Marilú,2021-11-11,08:05,Papa me cambia
-Marilú,2021-11-11,08:20,En el Cole
-Marilú,2021-11-11,16:20,Salgo del cole
-Marilú,2021-11-11,17:00,Gimnasia artística
-Marilú,2021-11-11,18:10,Tiempo con la Abuela
-
+Julián,08/11/2021,7:20,despertarme
+Julián,08/11/2021,7:30,desayunar
+Julián,08/11/2021,7:40,aseo personal
+Julián,08/11/2021,8:00,cambiar a Marilú
+Julián,08/11/2021,8:20,llevar a Marilú al Cole
+Julián,08/11/2021,8:35,gym+ducha
+Julián,08/11/2021,9:30,trabajo
+Julián,08/11/2021,11:00,break del trabajo
+Julián,08/11/2021,11:20,trabajo
+Julián,08/11/2021,12:30,Almuerzo
+Julián,08/11/2021,13:30,trabajo
+Julián,08/11/2021,15:30,break del trabajo
+Julián,08/11/2021,15:50,trabajo
+Julián,08/11/2021,18:20,aseo personal
+Julián,08/11/2021,18:30,Tiempo de calidad con Marilú
+Julián,08/11/2021,19:50,preparo la cena
+Julián,08/11/2021,20:40,cenamos
+Julián,08/11/2021,21:30,estudio
+Julián,08/11/2021,22:30,ocio
+Julián,09/11/2021,0:00,dormir
+Marilú,08/11/2021,7:30,despierta
+Marilú,08/11/2021,7:40,desayuna
+Marilú,08/11/2021,8:00,Papa me cambia
+Marilú,08/11/2021,8:20,En el Cole
+Marilú,08/11/2021,16:20,Salgo del cole
+Marilú,08/11/2021,17:00,Merienda con Mamá
+Marilú,08/11/2021,18:00,me baño
+Marilú,08/11/2021,18:30,Tiempo con Papá
+Marilú,08/11/2021,19:50,tablet
+Marilú,08/11/2021,20:40,cenamos
+Marilú,08/11/2021,21:30,Tele con Mamá
+Marilú,08/11/2021,22:30,dormir
+Julián,09/11/2021,7:00,despertarme
+Julián,09/11/2021,7:20,desayunar
+Julián,09/11/2021,7:35,aseo personal
+Julián,09/11/2021,7:55,cambiar a Marilú
+Julián,09/11/2021,8:15,llevar a Marilú al Cole
+Julián,09/11/2021,8:27,gym + aseo personal
+Julián,09/11/2021,9:42,trabajo
+Julián,09/11/2021,11:10,break del trabajo
+Julián,09/11/2021,11:30,trabajo
+Julián,09/11/2021,12:30,Almuerzo
+Julián,09/11/2021,13:40,trabajo
+Julián,09/11/2021,15:30,break del trabajo
+Julián,09/11/2021,15:50,trabajo
+Julián,09/11/2021,18:00,diplomatura
+Julián,09/11/2021,21:40,cena
+Julián,09/11/2021,22:30,ocio
+Julián,09/11/2021,23:50,dormir
+Marilú,09/11/2021,7:40,despierta
+Marilú,09/11/2021,7:50,desayuna
+Marilú,09/11/2021,8:05,Papa me cambia
+Marilú,09/11/2021,8:20,En el Cole
+Marilú,09/11/2021,16:20,Salgo del cole
+Marilú,09/11/2021,17:00,Merienda con Mamá
+Marilú,09/11/2021,18:10,tablet
+Marilú,09/11/2021,19:50,tarea
+Marilú,09/11/2021,20:40,cenan
+Marilú,09/11/2021,21:00,Tele con Mamá
+Marilú,09/11/2021,22:00,dormir
+Julián,10/11/2021,7:00,despertarme
+Julián,10/11/2021,7:15,desayunar
+Julián,10/11/2021,7:35,aseo personal
+Julián,10/11/2021,7:50,cambiar a Marilú
+Julián,10/11/2021,8:10,llevar a Marilú al Cole
+Julián,10/11/2021,8:23,gym + aseo personal
+Julián,10/11/2021,9:30,trabajo
+Julián,10/11/2021,11:05,break del trabajo
+Julián,10/11/2021,11:20,trabajo
+Julián,10/11/2021,12:50,Almuerzo
+Julián,10/11/2021,13:30,trabajo
+Julián,10/11/2021,15:30,break del trabajo
+Julián,10/11/2021,15:50,trabajo
+Julián,10/11/2021,16:10,traer a Marilú del Cole
+Julián,10/11/2021,17:00,merendar con Marilú
+Julián,10/11/2021,18:30,Tiempo de calidad con Marilú
+Julián,10/11/2021,19:30,Baño Marilú
+Julián,10/11/2021,19:50,preparo la cena
+Julián,10/11/2021,20:30,cena
+Julián,10/11/2021,22:00,ocio
+Julián,11/11/2021,0:30,dormir
+Marilú,10/11/2021,7:50,despierta
+Marilú,10/11/2021,7:55,desayuna
+Marilú,10/11/2021,8:00,Papa me cambia
+Marilú,10/11/2021,8:20,En el Cole
+Marilú,10/11/2021,16:20,Salgo del cole
+Marilú,10/11/2021,17:00,Merienda con Papá
+Marilú,10/11/2021,18:30,Tiempo de calidad con Papá
+Marilú,10/11/2021,19:30,Baño Marilú
+Marilú,10/11/2021,19:50,tarea
+Marilú,10/11/2021,20:30,cena
+Marilú,10/11/2021,21:40,Tele con Mamá
+Marilú,10/11/2021,23:30,dormir
+Julián,11/11/2021,7:40,despertarme
+Julián,11/11/2021,7:50,aseo personal
+Julián,11/11/2021,8:00,cambiar a Marilú
+Julián,11/11/2021,8:15,llevar a Marilú al Cole
+Julián,11/11/2021,8:42,trabajo
+Julián,11/11/2021,11:10,break del trabajo
+Julián,11/11/2021,11:30,trabajo
+Julián,11/11/2021,12:30,Almuerzo
+Julián,11/11/2021,13:40,trabajo
+Julián,11/11/2021,15:30,break del trabajo
+Julián,11/11/2021,15:50,trabajo
+Julián,11/11/2021,18:00,diplomatura
+Julián,11/11/2021,21:00,Llevar a Marilú a Casa
+Julián,11/11/2021,22:00,cena
+Julián,11/11/2021,23:00,ocio
+Julián,11/11/2021,23:59,dormir
+Marilú,11/11/2021,7:40,despierta
+Marilú,11/11/2021,7:50,desayuna
+Marilú,11/11/2021,8:05,Papa me cambia
+Marilú,11/11/2021,8:20,En el Cole
+Marilú,11/11/2021,16:20,Salgo del cole
+Marilú,11/11/2021,17:00,Gimnasia artística
+Marilú,11/11/2021,18:10,Tiempo con la Abuela
+Marilú,11/11/2021,20:00,Cena con la Abuela
+Marilú,11/11/2021,21:00,Llevar a Marilú a Casa
+Marilú,11/11/2021,22:30,dormir
+Julián,12/11/2021,7:00,despertarme
+Julián,12/11/2021,7:10,desayunar
+Julián,12/11/2021,7:25,aseo personal
+Julián,12/11/2021,8:00,cambiar a Marilú
+Julián,12/11/2021,8:10,llevar a Marilú al Cole
+Julián,12/11/2021,8:25,gym+ducha
+Julián,12/11/2021,9:40,trabajo
+Julián,12/11/2021,11:10,break del trabajo
+Julián,12/11/2021,11:30,trabajo
+Julián,12/11/2021,12:40,Almuerzo
+Julián,12/11/2021,13:10,trabajo
+Julián,12/11/2021,15:30,break del trabajo
+Julián,12/11/2021,15:50,trabajo
+Julián,12/11/2021,16:10,Buscar a Marilú al cole
+Julián,12/11/2021,17:00,trabajo
+Julián,12/11/2021,18:30,Tiempo de calidad con Marilú
+Julián,12/11/2021,20:00,preparo la cena
+Julián,12/11/2021,20:50,cenamos
+Julián,12/11/2021,21:30,estudio
+Julián,12/11/2021,22:30,ocio
+Julián,12/11/2021,23:40,dormir
+Marilú,12/11/2021,7:15,despierta
+Marilú,12/11/2021,7:20,desayuna
+Marilú,12/11/2021,8:00,Papa me cambia
+Marilú,12/11/2021,8:20,En el Cole
+Marilú,12/11/2021,16:20,Salgo del cole
+Marilú,12/11/2021,16:40,Merienda Papa
+Marilú,12/11/2021,18:30,Tiempo de calidad con Papa
+Marilú,12/11/2021,19:50,tablet + TV
+Marilú,12/11/2021,20:50,cenamos
+Marilú,12/11/2021,21:30,Tele con Mamá
+Marilú,12/11/2021,22:30,dormir
+Julián,13/11/2021,8:00,despertarme
+Julián,13/11/2021,8:10,desayuno
+Julián,13/11/2021,8:30,compras en el Super
+Julián,13/11/2021,9:30,preparo el desayuno a Marilú
+Julián,13/11/2021,9:50,Tiempo de calidad con Marilú
+Julián,13/11/2021,12:00,preparo el almuerzo
+Julián,13/11/2021,12:45,almorzamos
+Julián,13/11/2021,13:30,Tiempo de calidad con Marilú
+Julián,13/11/2021,16:00,baño a Marilú
+Julián,13/11/2021,16:30,Tiempo de calidad en familia
+Julián,13/11/2021,20:00,Pido la cena
+Julián,13/11/2021,21:00,Cenamos en familia
+Julián,13/11/2021,22:00,Ocio + Varios
+Julián,14/11/2021,1:00,Dormir
+Marilú,13/11/2021,9:25,despertarme
+Marilú,13/11/2021,9:30,Desayuno
+Marilú,13/11/2021,9:50,Tiempo de calidad con Papa
+Marilú,13/11/2021,12:00,Tablet + Tv
+Marilú,13/11/2021,12:45,almorzamos
+Marilú,13/11/2021,13:30,Tiempo de calidad con Papa
+Marilú,13/11/2021,16:00,baño a Marilú
+Marilú,13/11/2021,16:30,Tiempo de calidad en familia
+Marilú,13/11/2021,20:00,Tablet + Tv
+Marilú,13/11/2021,21:00,Cenamos en familia
+Marilú,13/11/2021,22:00,Tablet + Tv
+Marilú,13/11/2021,23:00,dormir
+Julián,14/11/2021,8:00,despertarme
+Julián,14/11/2021,8:10,desayuno
+Julián,14/11/2021,8:30,compras en el Super
+Julián,14/11/2021,9:30,preparo el desayuno a Marilú
+Julián,14/11/2021,10:00,Votar en familia
+Julián,14/11/2021,11:30,Ocio
+Julián,14/11/2021,12:00,preparo el almuerzo
+Julián,14/11/2021,13:00,almorzamos
+Julián,14/11/2021,13:50,Tiempo de calidad en familia
+Julián,14/11/2021,15:00,Siesta
+Julián,14/11/2021,17:00,Tiempo de calidad en familia
+Julián,14/11/2021,20:00,Preparo la cena
+Julián,14/11/2021,20:50,Cenamos en familia
+Julián,14/11/2021,22:00,Ocio
+Julián,14/11/2021,23:00,dormir
+Marilú,14/11/2021,9:25,despertarme
+Marilú,14/11/2021,9:30,Desayuno
+Marilú,14/11/2021,10:00,Votar en familia
+Marilú,14/11/2021,11:30,Tablet + Tv
+Marilú,14/11/2021,13:00,almorzamos
+Marilú,14/11/2021,13:50,Tiempo de calidad en familia
+Julián,14/11/2021,15:00,Tiempo de calidad en Mama
+Marilú,14/11/2021,16:00,baño de Marilú
+Marilú,14/11/2021,17:00,Tiempo de calidad en familia
+Marilú,14/11/2021,20:00,Tablet + Tv
+Marilú,14/11/2021,20:50,Cenamos en familia
+Marilú,14/11/2021,21:30,Tablet + Tv
+Marilú,14/11/2021,22:20,dormir
