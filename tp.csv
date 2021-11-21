@@ -1,4 +1,4 @@
-Nombre,Día,Hora,Date_ISO_8601,Actividad,Comparto Momento,Estrellas
+Nombre,Día,Hora,Date_ISO_8601,Actividad,Comparto hambiente,Estrellas
 Julián,08/11/2021,7:20,2021-11-08T07:20:00-03:00,Despertar,No,0
 Julián,08/11/2021,7:30,2021-11-08T07:30:00-03:00,Desayuno,No,0
 Julián,08/11/2021,7:40,2021-11-08T07:40:00-03:00,Aseo personal,No,0
@@ -13,7 +13,7 @@ Julián,08/11/2021,13:30,2021-11-08T13:30:00-03:00,Trabajo,No,0
 Julián,08/11/2021,15:30,2021-11-08T15:30:00-03:00,Break del trabajo,No,0
 Julián,08/11/2021,15:50,2021-11-08T15:50:00-03:00,Trabajo,No,0
 Julián,08/11/2021,18:20,2021-11-08T18:20:00-03:00,Aseo personal,No,0
-Julián,08/11/2021,18:30,2021-11-08T18:30:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Julián,08/11/2021,18:30,2021-11-08T18:30:00-03:00,Tiempo Marilú-Papá,Si,1
 Julián,08/11/2021,19:50,2021-11-08T19:50:00-03:00,Preparar cena,Si,0.5
 Julián,08/11/2021,20:40,2021-11-08T20:40:00-03:00,Cena en familia,Si,0.5
 Julián,08/11/2021,21:30,2021-11-08T21:30:00-03:00,Estudio,Si,0.5
@@ -26,7 +26,7 @@ Marilú,08/11/2021,8:20,2021-11-08T08:20:00-03:00,En el Cole,No,0
 Marilú,08/11/2021,16:20,2021-11-08T16:20:00-03:00,Salida del cole,No,0
 Marilú,08/11/2021,17:00,2021-11-08T17:00:00-03:00,Merienda con Mamá,No,0
 Marilú,08/11/2021,18:00,2021-11-08T18:00:00-03:00,Baño Marilú,No,0
-Marilú,08/11/2021,18:30,2021-11-08T18:30:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Marilú,08/11/2021,18:30,2021-11-08T18:30:00-03:00,Tiempo Marilú-Papá,Si,1
 Marilú,08/11/2021,19:50,2021-11-08T19:50:00-03:00,Tablet,No,0.5
 Marilú,08/11/2021,20:40,2021-11-08T20:40:00-03:00,Cena en familia,Si,0.5
 Marilú,08/11/2021,21:30,2021-11-08T21:30:00-03:00,Tele con Mamá,No,0
@@ -74,7 +74,7 @@ Julián,10/11/2021,15:30,2021-11-10T15:30:00-03:00,Break del trabajo,No,0
 Julián,10/11/2021,15:50,2021-11-10T15:50:00-03:00,Trabajo,No,0
 Julián,10/11/2021,16:10,2021-11-10T16:10:00-03:00,Salida del cole,Si,0.5
 Julián,10/11/2021,17:00,2021-11-10T17:00:00-03:00,Merienda,Si,1
-Julián,10/11/2021,18:30,2021-11-10T18:30:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Julián,10/11/2021,18:30,2021-11-10T18:30:00-03:00,Tiempo Marilú-Papá,Si,1
 Julián,10/11/2021,19:30,2021-11-10T19:30:00-03:00,Baño Marilú,Si,0.5
 Julián,10/11/2021,19:50,2021-11-10T19:50:00-03:00,Preparar cena,Si,0.5
 Julián,10/11/2021,20:30,2021-11-10T20:30:00-03:00,Cena en familia,Si,0.5
@@ -86,7 +86,7 @@ Marilú,10/11/2021,8:00,2021-11-10T08:00:00-03:00,Cambio de Ropa a Marilú,Si,0.
 Marilú,10/11/2021,8:20,2021-11-10T08:20:00-03:00,En el Cole,No,0
 Marilú,10/11/2021,16:10,2021-11-10T16:10:00-03:00,Salida del cole,Si,0.5
 Marilú,10/11/2021,17:00,2021-11-10T17:00:00-03:00,Merienda,Si,1
-Marilú,10/11/2021,18:30,2021-11-10T18:30:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Marilú,10/11/2021,18:30,2021-11-10T18:30:00-03:00,Tiempo Marilú-Papá,Si,1
 Marilú,10/11/2021,19:30,2021-11-10T19:30:00-03:00,Baño Marilú,Si,0.5
 Marilú,10/11/2021,19:50,2021-11-10T19:50:00-03:00,Tarea,Si,0.5
 Marilú,10/11/2021,20:30,2021-11-10T20:30:00-03:00,Cena en familia,Si,0.5
@@ -115,7 +115,7 @@ Marilú,11/11/2021,8:05,2021-11-11T08:05:00-03:00,Cambio de Ropa a Marilú,Si,0.
 Marilú,11/11/2021,8:20,2021-11-11T08:20:00-03:00,En el Cole,No,0
 Marilú,11/11/2021,16:20,2021-11-11T16:20:00-03:00,Salida del cole,Si,0.5
 Marilú,11/11/2021,17:00,2021-11-11T17:00:00-03:00,Gimnasia artística,No,0
-Marilú,11/11/2021,18:10,2021-11-11T18:10:00-03:00,Tiempo con la Abuela,No,0
+Marilú,11/11/2021,18:10,2021-11-11T18:10:00-03:00,Tiempo Marilú-Abuela,No,0
 Marilú,11/11/2021,20:00,2021-11-11T20:00:00-03:00,Cena con la Abuela,No,0
 Marilú,11/11/2021,21:00,2021-11-11T21:00:00-03:00,Llevar a Marilú a Casa,Si,0.5
 Marilú,11/11/2021,22:30,2021-11-11T22:30:00-03:00,Dormir,No,0
@@ -134,7 +134,7 @@ Julián,12/11/2021,15:30,2021-11-12T15:30:00-03:00,Break del trabajo,No,0
 Julián,12/11/2021,15:50,2021-11-12T15:50:00-03:00,Trabajo,No,0
 Julián,12/11/2021,16:10,2021-11-12T16:10:00-03:00,Salida del cole,Si,0.5
 Julián,12/11/2021,17:00,2021-11-12T17:00:00-03:00,Trabajo,Si,0.5
-Julián,12/11/2021,18:30,2021-11-12T18:30:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Julián,12/11/2021,18:30,2021-11-12T18:30:00-03:00,Tiempo Marilú-Papá,Si,1
 Julián,12/11/2021,20:00,2021-11-12T20:00:00-03:00,Preparar cena,Si,0.5
 Julián,12/11/2021,20:50,2021-11-12T20:50:00-03:00,Cena en familia,Si,0.5
 Julián,12/11/2021,21:30,2021-11-12T21:30:00-03:00,Estudio,No,0
@@ -146,7 +146,7 @@ Marilú,12/11/2021,8:00,2021-11-12T08:00:00-03:00,Cambio de Ropa a Marilú,Si,0.
 Marilú,12/11/2021,8:20,2021-11-12T08:20:00-03:00,En el Cole,No,0
 Marilú,12/11/2021,16:20,2021-11-12T16:20:00-03:00,Salida del cole,Si,0.5
 Marilú,12/11/2021,16:40,2021-11-12T16:40:00-03:00,Merienda,Si,1
-Marilú,12/11/2021,18:30,2021-11-12T18:30:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Marilú,12/11/2021,18:30,2021-11-12T18:30:00-03:00,Tiempo Marilú-Papá,Si,1
 Marilú,12/11/2021,19:50,2021-11-12T19:50:00-03:00,Tablet + TV,Si,0.5
 Marilú,12/11/2021,20:50,2021-11-12T20:50:00-03:00,Cena en familia,Si,0.5
 Marilú,12/11/2021,21:30,2021-11-12T21:30:00-03:00,Tele con Mamá,No,0
@@ -155,24 +155,24 @@ Julián,13/11/2021,8:00,2021-11-13T08:00:00-03:00,Despertar,No,0
 Julián,13/11/2021,8:10,2021-11-13T08:10:00-03:00,Desayuno,No,0
 Julián,13/11/2021,8:30,2021-11-13T08:30:00-03:00,Compras en el Super,No,0
 Julián,13/11/2021,9:30,2021-11-13T09:30:00-03:00,Preparo el desayuno a Marilú,Si,0.5
-Julián,13/11/2021,9:50,2021-11-13T09:50:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Julián,13/11/2021,9:50,2021-11-13T09:50:00-03:00,Tiempo Marilú-Papá,Si,1
 Julián,13/11/2021,12:00,2021-11-13T12:00:00-03:00,Preparar almuerzo,Si,0.5
 Julián,13/11/2021,12:45,2021-11-13T12:45:00-03:00,Almuerzo,Si,0.5
-Julián,13/11/2021,13:30,2021-11-13T13:30:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Julián,13/11/2021,13:30,2021-11-13T13:30:00-03:00,Tiempo Marilú-Papá,Si,1
 Julián,13/11/2021,16:00,2021-11-13T16:00:00-03:00,Baño Marilú,Si,0.5
-Julián,13/11/2021,16:30,2021-11-13T16:30:00-03:00,Tiempo de calidad en familia,Si,1
+Julián,13/11/2021,16:30,2021-11-13T16:30:00-03:00,Tiempo en familia,Si,1
 Julián,13/11/2021,20:00,2021-11-13T20:00:00-03:00,Cena Delivery,Si,0.5
 Julián,13/11/2021,21:00,2021-11-13T21:00:00-03:00,Cena en familia,Si,0.5
 Julián,13/11/2021,22:00,2021-11-13T22:00:00-03:00,Ocio + Varios,No,0
 Julián,14/11/2021,1:00,2021-11-14T01:00:00-03:00,Dormir,No,0
 Marilú,13/11/2021,9:25,2021-11-13T09:25:00-03:00,Despertar,No,0
 Marilú,13/11/2021,9:30,2021-11-13T09:30:00-03:00,Desayuno,No,0
-Marilú,13/11/2021,9:50,2021-11-13T09:50:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Marilú,13/11/2021,9:50,2021-11-13T09:50:00-03:00,Tiempo Marilú-Papá,Si,1
 Marilú,13/11/2021,12:00,2021-11-13T12:00:00-03:00,Tablet + Tv,Si,0.5
 Marilú,13/11/2021,12:45,2021-11-13T12:45:00-03:00,Almuerzo,Si,0.5
-Marilú,13/11/2021,13:30,2021-11-13T13:30:00-03:00,Tiempo de calidad con Marilú-Papá,Si,1
+Marilú,13/11/2021,13:30,2021-11-13T13:30:00-03:00,Tiempo Marilú-Papá,Si,1
 Marilú,13/11/2021,16:00,2021-11-13T16:00:00-03:00,Baño Marilú,Si,0.5
-Marilú,13/11/2021,16:30,2021-11-13T16:30:00-03:00,Tiempo de calidad en familia,Si,1
+Marilú,13/11/2021,16:30,2021-11-13T16:30:00-03:00,Tiempo en familia,Si,1
 Marilú,13/11/2021,20:00,2021-11-13T20:00:00-03:00,Tablet + Tv,Si,0.5
 Marilú,13/11/2021,21:00,2021-11-13T21:00:00-03:00,Cena en familia,Si,0.5
 Marilú,13/11/2021,22:00,2021-11-13T22:00:00-03:00,Tablet + Tv,No,0
@@ -185,9 +185,9 @@ Julián,14/11/2021,10:00,2021-11-14T10:00:00-03:00,Votar en familia,Si,0.5
 Julián,14/11/2021,11:30,2021-11-14T11:30:00-03:00,Ocio,Si,0.5
 Julián,14/11/2021,12:00,2021-11-14T12:00:00-03:00,Preparar almuerzo,Si,0.5
 Julián,14/11/2021,13:00,2021-11-14T13:00:00-03:00,Almuerzo,Si,0.5
-Julián,14/11/2021,13:50,2021-11-14T13:50:00-03:00,Tiempo de calidad en familia,Si,1
+Julián,14/11/2021,13:50,2021-11-14T13:50:00-03:00,Tiempo en familia,Si,1
 Julián,14/11/2021,15:00,2021-11-14T15:00:00-03:00,Siesta,No,0
-Julián,14/11/2021,17:00,2021-11-14T17:00:00-03:00,Tiempo de calidad en familia,Si,1
+Julián,14/11/2021,17:00,2021-11-14T17:00:00-03:00,Tiempo en familia,Si,1
 Julián,14/11/2021,20:00,2021-11-14T20:00:00-03:00,Preparar cena,Si,0.5
 Julián,14/11/2021,20:50,2021-11-14T20:50:00-03:00,Cena en familia,Si,0.5
 Julián,14/11/2021,22:00,2021-11-14T22:00:00-03:00,Ocio,No,0
@@ -197,10 +197,10 @@ Marilú,14/11/2021,9:30,2021-11-14T09:30:00-03:00,Desayuno,No,0
 Marilú,14/11/2021,10:00,2021-11-14T10:00:00-03:00,Votar en familia,Si,0.5
 Marilú,14/11/2021,11:30,2021-11-14T11:30:00-03:00,Tablet + Tv,Si,0.5
 Marilú,14/11/2021,13:00,2021-11-14T13:00:00-03:00,Almuerzo,Si,0.5
-Marilú,14/11/2021,13:50,2021-11-14T13:50:00-03:00,Tiempo de calidad en familia,Si,1
-Julián,14/11/2021,15:00,2021-11-14T15:00:00-03:00,Tiempo de calidad en Marilú-Mama,No,0
+Marilú,14/11/2021,13:50,2021-11-14T13:50:00-03:00,Tiempo en familia,Si,1
+Julián,14/11/2021,15:00,2021-11-14T15:00:00-03:00,Tiempo Marilú-Mamá,No,0
 Marilú,14/11/2021,16:00,2021-11-14T16:00:00-03:00,Baño Marilú,Si,0.5
-Marilú,14/11/2021,17:00,2021-11-14T17:00:00-03:00,Tiempo de calidad en familia,Si,1
+Marilú,14/11/2021,17:00,2021-11-14T17:00:00-03:00,Tiempo en familia,Si,1
 Marilú,14/11/2021,20:00,2021-11-14T20:00:00-03:00,Tablet + Tv,Si,0.5
 Marilú,14/11/2021,20:50,2021-11-14T20:50:00-03:00,Cena en familia,Si,0.5
 Marilú,14/11/2021,21:30,2021-11-14T21:30:00-03:00,Tablet + Tv,No,0
