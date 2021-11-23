@@ -2,6 +2,10 @@
 
 https://sayanymore.github.io/infovis/
 
+# Trabajo Practico
+
+* [¿Cuanto tiempo "de calidad" paso con mi hija?](https://public.tableau.com/views/Tp_v2/Historia?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+
 ## Bitacora de la materia.
 
 * [Hoja de Calculo Google](https://docs.google.com/spreadsheets/d/1VqoFYQuuzrfM0jmM_I8BSM3Ft4FZ8nuTpHocFcxQVSg/edit#gid=0)
