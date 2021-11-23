@@ -1,4 +1,4 @@
-﻿Nombre,Día,Hora,Aux,Cant Min,Date_ISO_8601,Actividad,Momento Juntos,Estrellas
+Nombre,Día,Hora,Aux,Cant Min,Date_ISO_8601,Actividad,Momento Juntos,Estrellas
 Julián,08/11/2021,7:20,0:10,10,00,2021-11-08T07:20:00-03:00,Despertar,No,0
 Julián,08/11/2021,7:30,0:10,10,00,2021-11-08T07:30:00-03:00,Desayuno,No,0
 Julián,08/11/2021,7:40,0:20,20,00,2021-11-08T07:40:00-03:00,Aseo personal,No,0
@@ -198,7 +198,7 @@ Marilú,14/11/2021,10:00,1:30,90,00,2021-11-14T10:00:00-03:00,Votar en familia,S
 Marilú,14/11/2021,11:30,1:30,90,00,2021-11-14T11:30:00-03:00,Tablet + Tv,Si,0.5
 Marilú,14/11/2021,13:00,0:50,50,00,2021-11-14T13:00:00-03:00,Almuerzo,Si,0.5
 Marilú,14/11/2021,13:50,1:10,70,00,2021-11-14T13:50:00-03:00,Tiempo en familia,Si,1
-Julián,14/11/2021,15:00,1:00,60,00,2021-11-14T15:00:00-03:00,Tiempo Marilú-Mamá,No,0
+Marilú,14/11/2021,15:00,1:00,60,00,2021-11-14T15:00:00-03:00,Tiempo Marilú-Mamá,No,0
 Marilú,14/11/2021,16:00,1:00,60,00,2021-11-14T16:00:00-03:00,Baño Marilú,Si,0.5
 Marilú,14/11/2021,17:00,3:00,180,00,2021-11-14T17:00:00-03:00,Tiempo en familia,Si,1
 Marilú,14/11/2021,20:00,0:50,50,00,2021-11-14T20:00:00-03:00,Tablet + Tv,Si,0.5
