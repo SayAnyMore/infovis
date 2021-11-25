@@ -1,1 +1,1652 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="805" height="600"><rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="backgorund"/><g transform="translate(10,10)" id="visualization"><g><rect x="780" y="-5.684341886080802e-14" height="0.3696567792812857" width="5" fill="black"><title>Cena con la Madre: 0.33</title></rect><rect x="780" y="5.369656779281229" height="0.9297428084954049" width="5" fill="black"><title>Preparo el desayuno a Marilú: 0.8300000000000001</title></rect><rect x="780" y="11.299399587776634" height="1.1201720584281816" width="5" fill="black"><title>Cena con la Abuela: 1</title></rect><rect x="780" y="17.419571646204815" height="1.1201720584281816" width="5" fill="black"><title>Tablet + TV: 1</title></rect><rect x="780" y="23.539743704632997" height="1.1201720584281247" width="5" fill="black"><title>Cena Delivery: 1</title></rect><rect x="780" y="29.65991576306112" height="1.1201720584281247" width="5" fill="black"><title>Tiempo Marilú-Mamá: 1</title></rect><rect x="780" y="35.780087821489246" height="1.3106013083609582" width="5" fill="black"><title>Gimnasia artística: 1.17</title></rect><rect x="780" y="42.090689129850205" height="1.5346357200466016" width="5" fill="black"><title>Ir al Cole: 1.37</title></rect><rect x="780" y="48.625324849896806" height="1.680258087642244" width="5" fill="black"><title>Tarea: 1.5</title></rect><rect x="780" y="55.30558293753905" height="1.960301102249332" width="5" fill="black"><title>Preparar almuerzo: 1.75</title></rect><rect x="780" y="62.26588403978838" height="2.049914866923551" width="5" fill="black"><title>Aseo personal: 1.83</title></rect><rect x="780" y="69.31579890671193" height="2.0499148669235865" width="5" fill="black"><title>Cena en soledad: 1.83</title></rect><rect x="780" y="76.36571377363552" height="2.0499148669235865" width="5" fill="black"><title>Tiempo Marilú-Abuela: 1.83</title></rect><rect x="780" y="83.4156286405591" height="2.240344116856363" width="5" fill="black"><title>Estudio: 2</title></rect><rect x="780" y="90.65597275741547" height="2.240344116856363" width="5" fill="black"><title>Compras en el Super: 2</title></rect><rect x="780" y="97.89631687427183" height="2.240344116856363" width="5" fill="black"><title>Siesta: 2</title></rect><rect x="780" y="105.1366609911282" height="2.43077336678914" width="5" fill="black"><title>Merienda con Mamá: 2.17</title></rect><rect x="780" y="112.56743435791734" height="2.531588852047676" width="5" fill="black"><title>Despertar: 2.26</title></rect><rect x="780" y="120.09902320996501" height="2.8004301460704255" width="5" fill="black"><title>Tablet: 2.5</title></rect><rect x="780" y="127.89945335603544" height="2.8004301460704397" width="5" fill="black"><title>Llevar a Marilú a Casa: 2.5</title></rect><rect x="780" y="135.69988350210588" height="3.248498969441698" width="5" fill="black"><title>Cambio de Ropa a Marilú: 2.9000000000000004</title></rect><rect x="780" y="143.94838247154757" height="3.360516175284488" width="5" fill="black"><title>Ocio + Varios: 3</title></rect><rect x="780" y="152.30889864683206" height="3.360516175284488" width="5" fill="black"><title>Votar en familia: 3</title></rect><rect x="780" y="160.66941482211655" height="3.5397437046330253" width="5" fill="black"><title>Preparar cena: 3.16</title></rect><rect x="780" y="169.20915852674958" height="3.5397437046330538" width="5" fill="black"><title>Baño Marilú: 3.16</title></rect><rect x="780" y="177.74890223138263" height="3.5397437046330538" width="5" fill="black"><title>Almuerzo: 3.16</title></rect><rect x="780" y="186.28864593601568" height="3.6069540281387162" width="5" fill="black"><title>Break del trabajo: 3.22</title></rect><rect x="780" y="194.8955999641544" height="4.559100277802685" width="5" fill="black"><title>Desayuno: 4.07</title></rect><rect x="780" y="204.45470024195708" height="5.051975983511056" width="5" fill="black"><title>Almuerzo en solitario: 4.51</title></rect><rect x="780" y="214.50667622546814" height="5.085581145263916" width="5" fill="black"><title>Gym + Aseo personal: 4.54</title></rect><rect x="780" y="224.59225737073206" height="5.410431042208074" width="5" fill="black"><title>Tele con Mamá: 4.83</title></rect><rect x="780" y="235.00268841294013" height="5.410431042208074" width="5" fill="black"><title>Merienda: 4.83</title></rect><rect x="780" y="245.4131194551482" height="6.620216865310567" width="5" fill="black"><title>Tablet + Tv: 5.91</title></rect><rect x="780" y="257.0333363204588" height="7.460345909131661" width="5" fill="black"><title>Salida del cole: 6.66</title></rect><rect x="780" y="269.49368222959043" height="7.4715476297159285" width="5" fill="black"><title>Diplomatura: 6.67</title></rect><rect x="780" y="281.96522985930636" height="10.059145084684985" width="5" fill="black"><title>Ocio: 8.98</title></rect><rect x="780" y="297.02437494399135" height="10.652836275651907" width="5" fill="black"><title>Cena en familia: 9.51</title></rect><rect x="780" y="312.67721121964325" height="17.18343937628822" width="5" fill="black"><title>Tiempo en familia: 15.34</title></rect><rect x="780" y="334.8606505959315" height="19.042924993278973" width="5" fill="black"><title>Tiempo Marilú-Papá: 17</title></rect><rect x="780" y="358.90357558921045" height="35.29662156107179" width="5" fill="black"><title>Trabajo: 31.50999999999999</title></rect><rect x="520" y="97.49999999999997" height="41.63679541177521" width="5" fill="black"><title>1: 37.17</title></rect><rect x="780" y="399.20019715028224" height="44.6164530871942" width="5" fill="black"><title>En el Cole: 39.83</title></rect><rect x="520" y="144.13679541177518" height="52.35684201093284" width="5" fill="black"><title>0.5: 46.739999999999995</title></rect><rect x="260" y="99.99999999999994" height="93.06389461421276" width="5" fill="black"><title>Si: 83.08</title></rect><rect x="780" y="448.81665023747644" height="131.18334976252356" width="5" fill="black"><title>Dormir: 117.11</title></rect><rect x="0" y="100" height="187.2255578456851" width="5" fill="black"><title>Marilú: 167.14</title></rect><rect x="0" y="292.2255578456851" height="187.7744421543149" width="5" fill="black"><title>Julián: 167.62999999999997</title></rect><rect x="520" y="201.49363742270802" height="281.00636257729195" width="5" fill="black"><title>0: 250.86000000000007</title></rect><rect x="260" y="198.0638946142127" height="281.93610538578736" width="5" fill="black"><title>No: 251.69000000000008</title></rect></g><g fill="none" stroke-opacity="1"><g style="mix-blend-mode: multiply;"><path d="M5,410.62214356125105C132.5,410.62214356125105,132.5,410.622143561251,260,410.622143561251" stroke="#8c564b" stroke-width="138.75571287749798"/><title>Julián → No: 123.86999999999998</title></g><g style="mix-blend-mode: multiply;"><path d="M5,316.73492248409354C132.5,316.73492248409354,132.5,168.55452997580423,260,168.55452997580423" stroke="#8c564b" stroke-width="49.01872927681692"/><title>Julián → Si: 43.76</title></g><g style="mix-blend-mode: multiply;"><path d="M5,215.63536159154046C132.5,215.63536159154046,132.5,269.65409086835734,260,269.65409086835734" stroke="#e377c2" stroke-width="143.1803925082893"/><title>Marilú → No: 127.82</title></g><g style="mix-blend-mode: multiply;"><path d="M5,122.02258266869791C132.5,122.02258266869791,132.5,122.02258266869785,260,122.02258266869785" stroke="#e377c2" stroke-width="44.04516533739583"/><title>Marilú → Si: 39.32</title></g><g style="mix-blend-mode: multiply;"><path d="M265,339.4968187113541C392.5,339.4968187113541,392.5,341.996818711354,520,341.996818711354" stroke="#d62728" stroke-width="281.006362577292"/><title>No → 0: 250.86000000000007</title></g><g style="mix-blend-mode: multiply;"><path d="M265,167.35034501299396C392.5,167.35034501299396,392.5,169.85034501299393,520,169.85034501299393" stroke="#9467bd" stroke-width="51.427099202437496"/><title>Si → 0.5: 45.91</title></g><g style="mix-blend-mode: multiply;"><path d="M265,120.81839770588758C392.5,120.81839770588758,392.5,118.3183977058876,520,118.3183977058876" stroke="#9467bd" stroke-width="41.63679541177525"/><title>Si → 1: 37.17</title></g><g style="mix-blend-mode: multiply;"><path d="M265,198.5287660184604C392.5,198.5287660184604,392.5,196.02876601846037,520,196.02876601846037" stroke="#d62728" stroke-width="1"/><title>No → 0.5: 0.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,221.79115512142656C652.5,221.79115512142656,652.5,113.83322878394117,780,113.83322878394117" stroke="#1f77b4" stroke-width="2.5315888520476744"/><title>0 → Despertar: 2.26</title></g><g style="mix-blend-mode: multiply;"><path d="M525,234.7347432565641C652.5,234.7347432565641,652.5,197.17515010305573,780,197.17515010305573" stroke="#1f77b4" stroke-width="4.5591002778026715"/><title>0 → Desayuno: 4.07</title></g><g style="mix-blend-mode: multiply;"><path d="M525,207.3689398691638C652.5,207.3689398691638,652.5,63.29084147325016,780,63.29084147325016" stroke="#1f77b4" stroke-width="2.04991486692356"/><title>0 → Aseo personal: 1.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,158.02692893628452C652.5,158.02692893628452,652.5,137.32413298682673,780,137.32413298682673" stroke="#ff7f0e" stroke-width="3.248498969441707"/><title>0.5 → Cambio de Ropa a Marilú: 2.9000000000000004</title></g><g style="mix-blend-mode: multiply;"><path d="M525,148.07420019715022C652.5,148.07420019715022,652.5,42.8580069898735,780,42.8580069898735" stroke="#ff7f0e" stroke-width="1.5346357200465994"/><title>0.5 → Ir al Cole: 1.37</title></g><g style="mix-blend-mode: multiply;"><path d="M525,244.60905995160846C652.5,244.60905995160846,652.5,217.0494667981001,780,217.0494667981001" stroke="#1f77b4" stroke-width="5.085581145263913"/><title>0 → Gym + Aseo personal: 4.54</title></g><g style="mix-blend-mode: multiply;"><path d="M525,289.8920154135674C652.5,289.8920154135674,652.5,377.39201541356744,780,377.39201541356744" stroke="#1f77b4" stroke-width="33.61636347342951"/><title>0 → Trabajo: 30.00999999999999</title></g><g style="mix-blend-mode: multiply;"><path d="M525,230.6517161035934C652.5,230.6517161035934,652.5,188.09212295008504,780,188.09212295008504" stroke="#1f77b4" stroke-width="3.606954028138723"/><title>0 → Break del trabajo: 3.22</title></g><g style="mix-blend-mode: multiply;"><path d="M525,239.54028138722097C652.5,239.54028138722097,652.5,206.9806882337126,780,206.9806882337126" stroke="#1f77b4" stroke-width="5.051975983511068"/><title>0 → Almuerzo en solitario: 4.51</title></g><g style="mix-blend-mode: multiply;"><path d="M525,129.61533291513575C652.5,129.61533291513575,652.5,344.38211309257093,780,344.38211309257093" stroke="#2ca02c" stroke-width="19.04292499327897"/><title>1 → Tiempo Marilú-Papá: 17</title></g><g style="mix-blend-mode: multiply;"><path d="M525,164.7815664486064C652.5,164.7815664486064,652.5,162.43928667443308,780,162.43928667443308" stroke="#ff7f0e" stroke-width="3.539743704633032"/><title>0.5 → Preparar cena: 3.16</title></g><g style="mix-blend-mode: multiply;"><path d="M525,189.4869611972398C652.5,189.4869611972398,652.5,302.3507930818173,780,302.3507930818173" stroke="#ff7f0e" stroke-width="10.652836275651941"/><title>0.5 → Cena en familia: 9.51</title></g><g style="mix-blend-mode: multiply;"><path d="M525,152.11242046778378C652.5,152.11242046778378,652.5,83.9757146697732,780,83.9757146697732" stroke="#ff7f0e" stroke-width="1.1201720584281747"/><title>0.5 → Estudio: 1</title></g><g style="mix-blend-mode: multiply;"><path d="M525,268.33430414911714C652.5,268.33430414911714,652.5,287.27484541625586,780,287.27484541625586" stroke="#1f77b4" stroke-width="9.499059055470921"/><title>0 → Ocio: 8.48</title></g><g style="mix-blend-mode: multiply;"><path d="M525,416.9083251187381C652.5,416.9083251187381,652.5,514.4083251187382,780,514.4083251187382" stroke="#1f77b4" stroke-width="131.18334976252353"/><title>0 → Dormir: 117.11</title></g><g style="mix-blend-mode: multiply;"><path d="M525,329.0084236938792C652.5,329.0084236938792,652.5,421.5084236938793,780,421.5084236938793" stroke="#1f77b4" stroke-width="44.616453087194195"/><title>0 → En el Cole: 39.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,255.36271171251892C652.5,255.36271171251892,652.5,263.74316695044354,780,263.74316695044354" stroke="#1f77b4" stroke-width="1.5010305582937542"/><title>0 → Salida del cole: 1.34</title></g><g style="mix-blend-mode: multiply;"><path d="M525,219.30997401200815C652.5,219.30997401200815,652.5,106.35204767452277,780,106.35204767452277" stroke="#1f77b4" stroke-width="2.430773366789139"/><title>0 → Merienda con Mamá: 2.17</title></g><g style="mix-blend-mode: multiply;"><path d="M525,228.56819607491698C652.5,228.56819607491698,652.5,172.46885921677554,780,172.46885921677554" stroke="#1f77b4" stroke-width="1"/><title>0 → Baño Marilú: 0.5</title></g><g style="mix-blend-mode: multiply;"><path d="M525,153.13737790124557C652.5,153.13737790124557,652.5,120.5638946142127,780,120.5638946142127" stroke="#ff7f0e" stroke-width="1"/><title>0.5 → Tablet: 0.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,249.85706604534445C652.5,249.85706604534445,652.5,227.2974728918361,780,227.2974728918361" stroke="#1f77b4" stroke-width="5.410431042208084"/><title>0 → Tele con Mamá: 4.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,259.84900080652375C652.5,259.84900080652375,652.5,273.2294560444484,780,273.2294560444484" stroke="#1f77b4" stroke-width="7.471547629715925"/><title>0 → Diplomatura: 6.67</title></g><g style="mix-blend-mode: multiply;"><path d="M525,209.41885473608735C652.5,209.41885473608735,652.5,70.34075634017371,780,70.34075634017371" stroke="#1f77b4" stroke-width="2.04991486692356"/><title>0 → Cena en soledad: 1.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,223.99229321623793C652.5,223.99229321623793,652.5,121.96410968724793,780,121.96410968724793" stroke="#1f77b4" stroke-width="1.8706873375750517"/><title>0 → Tablet: 1.67</title></g><g style="mix-blend-mode: multiply;"><path d="M525,205.87911103145433C652.5,205.87911103145433,652.5,49.840711533291376,780,49.840711533291376" stroke="#1f77b4" stroke-width="1"/><title>0 → Tarea: 0.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,201.67846581234866C652.5,201.67846581234866,652.5,0.18482838964059198,780,0.18482838964059198" stroke="#1f77b4" stroke-width="1"/><title>0 → Cena con la Madre: 0.33</title></g><g style="mix-blend-mode: multiply;"><path d="M525,180.62079935478076C652.5,180.62079935478076,652.5,260.0129939958777,780,260.0129939958777" stroke="#ff7f0e" stroke-width="5.9593153508378895"/><title>0.5 → Salida del cole: 5.32</title></g><g style="mix-blend-mode: multiply;"><path d="M525,100.20521552110401C652.5,100.20521552110401,652.5,237.70790393404417,780,237.70790393404417" stroke="#2ca02c" stroke-width="5.410431042208084"/><title>1 → Merienda: 4.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,168.04126713863238C652.5,168.04126713863238,652.5,170.69898736445904,780,170.69898736445904" stroke="#ff7f0e" stroke-width="2.9796576754189448"/><title>0.5 → Baño Marilú: 2.66</title></g><g style="mix-blend-mode: multiply;"><path d="M525,149.21677569674696C652.5,149.21677569674696,652.5,49.00058248947025,780,49.00058248947025" stroke="#ff7f0e" stroke-width="1"/><title>0.5 → Tarea: 0.67</title></g><g style="mix-blend-mode: multiply;"><path d="M525,155.00246437852846C652.5,155.00246437852846,652.5,129.29966842907066,780,129.29966842907066" stroke="#ff7f0e" stroke-width="2.8004301460704366"/><title>0.5 → Llevar a Marilú a Casa: 2.5</title></g><g style="mix-blend-mode: multiply;"><path d="M525,204.75893897302615C652.5,204.75893897302615,652.5,36.435388475669725,780,36.435388475669725" stroke="#1f77b4" stroke-width="1.3106013083609642"/><title>0 → Gimnasia artística: 1.17</title></g><g style="mix-blend-mode: multiply;"><path d="M525,211.4687696030109C652.5,211.4687696030109,652.5,77.3906712070973,780,77.3906712070973" stroke="#1f77b4" stroke-width="2.04991486692356"/><title>0 → Tiempo Marilú-Abuela: 1.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,202.4233802312034C652.5,202.4233802312034,652.5,11.859485616990721,780,11.859485616990721" stroke="#1f77b4" stroke-width="1.1201720584281747"/><title>0 → Cena con la Abuela: 1</title></g><g style="mix-blend-mode: multiply;"><path d="M525,195.65350837888687C652.5,195.65350837888687,652.5,359.7437046330316,780,359.7437046330316" stroke="#ff7f0e" stroke-width="1.6802580876422621"/><title>0.5 → Trabajo: 1.5</title></g><g style="mix-blend-mode: multiply;"><path d="M525,213.05381306568677C652.5,213.05381306568677,652.5,85.09588672820138,780,85.09588672820138" stroke="#1f77b4" stroke-width="1.1201720584281747"/><title>0 → Estudio: 1</title></g><g style="mix-blend-mode: multiply;"><path d="M525,145.62662424948465C652.5,145.62662424948465,652.5,17.979657675418903,780,17.979657675418903" stroke="#ff7f0e" stroke-width="1.1201720584281747"/><title>0.5 → Tablet + TV: 1</title></g><g style="mix-blend-mode: multiply;"><path d="M525,214.73407115332904C652.5,214.73407115332904,652.5,91.77614481584365,780,91.77614481584365" stroke="#1f77b4" stroke-width="2.2403441168563494"/><title>0 → Compras en el Super: 2</title></g><g style="mix-blend-mode: multiply;"><path d="M525,144.60166681602288C652.5,144.60166681602288,652.5,5.8345281835289216,780,5.8345281835289216" stroke="#ff7f0e" stroke-width="1"/><title>0.5 → Preparo el desayuno a Marilú: 0.8300000000000001</title></g><g style="mix-blend-mode: multiply;"><path d="M525,150.57218388744505C652.5,150.57218388744505,652.5,56.2857334886637,780,56.2857334886637" stroke="#ff7f0e" stroke-width="1.9603011022493058"/><title>0.5 → Preparar almuerzo: 1.75</title></g><g style="mix-blend-mode: multiply;"><path d="M525,171.30096782865837C652.5,171.30096782865837,652.5,179.51877408369916,780,179.51877408369916" stroke="#ff7f0e" stroke-width="3.539743704633032"/><title>0.5 → Almuerzo: 3.16</title></g><g style="mix-blend-mode: multiply;"><path d="M525,111.50215073035216C652.5,111.50215073035216,652.5,321.26893090778736,780,321.26893090778736" stroke="#2ca02c" stroke-width="17.1834393762882"/><title>1 → Tiempo en familia: 15.34</title></g><g style="mix-blend-mode: multiply;"><path d="M525,146.74679630791283C652.5,146.74679630791283,652.5,24.099829733847084,780,24.099829733847084" stroke="#ff7f0e" stroke-width="1.1201720584281747"/><title>0.5 → Cena Delivery: 1</title></g><g style="mix-blend-mode: multiply;"><path d="M525,226.6078949726677C652.5,226.6078949726677,652.5,145.62864055918985,780,145.62864055918985" stroke="#1f77b4" stroke-width="3.3605161752845243"/><title>0 → Ocio + Varios: 3</title></g><g style="mix-blend-mode: multiply;"><path d="M525,175.35599068016836C652.5,175.35599068016836,652.5,247.6982704543417,780,247.6982704543417" stroke="#ff7f0e" stroke-width="4.570301998386952"/><title>0.5 → Tablet + Tv: 4.08</title></g><g style="mix-blend-mode: multiply;"><path d="M525,253.58723899991028C652.5,253.58723899991028,652.5,251.00837888699695,780,251.00837888699695" stroke="#1f77b4" stroke-width="2.04991486692356"/><title>0 → Tablet + Tv: 1.83</title></g><g style="mix-blend-mode: multiply;"><path d="M525,161.33143650864764C652.5,161.33143650864764,652.5,153.98915673447434,780,153.98915673447434" stroke="#ff7f0e" stroke-width="3.3605161752845243"/><title>0.5 → Votar en familia: 3</title></g><g style="mix-blend-mode: multiply;"><path d="M525,183.88050004480675C652.5,183.88050004480675,652.5,282.2452728739134,780,282.2452728739134" stroke="#ff7f0e" stroke-width="1"/><title>0.5 → Ocio: 0.5</title></g><g style="mix-blend-mode: multiply;"><path d="M525,216.9744152701854C652.5,216.9744152701854,652.5,99.01648893270001,780,99.01648893270001" stroke="#1f77b4" stroke-width="2.2403441168563494"/><title>0 → Siesta: 2</title></g><g style="mix-blend-mode: multiply;"><path d="M525,203.54355228963158C652.5,203.54355228963158,652.5,30.22000179227521,780,30.22000179227521" stroke="#1f77b4" stroke-width="1.1201720584281747"/><title>0 → Tiempo Marilú-Mamá: 1</title></g></g><g><text x="776" y="0.184828389640586" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cena con la Madre</tspan></text><text x="776" y="5.834528183528931" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Preparo el desayuno a Marilú</tspan></text><text x="776" y="11.859485616990725" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cena con la Abuela</tspan></text><text x="776" y="17.979657675418906" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tablet + TV</tspan></text><text x="776" y="24.09982973384706" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cena Delivery</tspan></text><text x="776" y="30.220001792275184" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tiempo Marilú-Mamá</tspan></text><text x="776" y="36.435388475669725" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gimnasia artística</tspan></text><text x="776" y="42.8580069898735" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ir al Cole</tspan></text><text x="776" y="49.46545389371793" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tarea</tspan></text><text x="776" y="56.285733488663716" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Preparar almuerzo</tspan></text><text x="776" y="63.290841473250154" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Aseo personal</tspan></text><text x="776" y="70.34075634017373" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cena en soledad</tspan></text><text x="776" y="77.39067120709731" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tiempo Marilú-Abuela</tspan></text><text x="776" y="84.53580069898729" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Estudio</tspan></text><text x="776" y="91.77614481584365" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Compras en el Super</tspan></text><text x="776" y="99.01648893270001" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Siesta</tspan></text><text x="776" y="106.35204767452277" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Merienda con Mamá</tspan></text><text x="776" y="113.83322878394117" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Despertar</tspan></text><text x="776" y="121.49923828300022" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tablet</tspan></text><text x="776" y="129.29966842907066" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Llevar a Marilú a Casa</tspan></text><text x="776" y="137.32413298682673" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cambio de Ropa a Marilú</tspan></text><text x="776" y="145.62864055918982" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ocio + Varios</tspan></text><text x="776" y="153.9891567344743" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Votar en familia</tspan></text><text x="776" y="162.43928667443305" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Preparar cena</tspan></text><text x="776" y="170.9790303790661" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Baño Marilú</tspan></text><text x="776" y="179.51877408369916" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Almuerzo</tspan></text><text x="776" y="188.09212295008504" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Break del trabajo</tspan></text><text x="776" y="197.17515010305573" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Desayuno</tspan></text><text x="776" y="206.9806882337126" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Almuerzo en solitario</tspan></text><text x="776" y="217.0494667981001" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gym + Aseo personal</tspan></text><text x="776" y="227.2974728918361" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tele con Mamá</tspan></text><text x="776" y="237.70790393404417" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Merienda</tspan></text><text x="776" y="248.7232278878035" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tablet + Tv</tspan></text><text x="776" y="260.7635092750246" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Salida del cole</tspan></text><text x="776" y="273.2294560444484" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Diplomatura</tspan></text><text x="776" y="286.9948024016488" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ocio</tspan></text><text x="776" y="302.3507930818173" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cena en familia</tspan></text><text x="776" y="321.26893090778736" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tiempo en familia</tspan></text><text x="776" y="344.382113092571" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tiempo Marilú-Papá</tspan></text><text x="776" y="376.55188636974634" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Trabajo</tspan></text><text x="516" y="118.31839770588758" text-anchor="end"><tspan alignment-baseline="middle" x="516" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">1</tspan></text><text x="776" y="421.5084236938793" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">En el Cole</tspan></text><text x="516" y="170.3152164172416" text-anchor="end"><tspan alignment-baseline="middle" x="516" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">0.5</tspan></text><text x="269" y="146.53194730710632" text-anchor="start"><tspan alignment-baseline="middle" x="269" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Si</tspan></text><text x="776" y="514.4083251187383" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Dormir</tspan></text><text x="9" y="193.61277892284255" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Marilú</tspan></text><text x="9" y="386.11277892284255" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Julián</tspan></text><text x="516" y="341.99681871135397" text-anchor="end"><tspan alignment-baseline="middle" x="516" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">0</tspan></text><text x="269" y="339.0319473071064" text-anchor="start"><tspan alignment-baseline="middle" x="269" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">No</tspan></text></g><g><text x="782.5" y="-4.000000000000057" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Actividad</text><text x="522.5" y="93.49999999999997" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Estrellas</text><text x="262.5" y="95.99999999999994" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Momento Juntos</text><text x="2.5" y="96" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Nombre</text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="805"
+   height="600"
+   version="1.1"
+   id="svg1531"
+   sodipodi:docname="Alluvial.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1535" />
+  <sodipodi:namedview
+     id="namedview1533"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.3483333"
+     inkscape:cx="402.34858"
+     inkscape:cy="320.76638"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1528" />
+  <rect
+     width="805"
+     height="600"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="backgorund" />
+  <g
+     transform="translate(10,10)"
+     id="visualization">
+    <g
+       id="g970">
+      <rect
+         x="780"
+         y="-5.684341886080802e-14"
+         height="0.3696567792812857"
+         width="5"
+         fill="black"
+         id="rect776">
+        <title
+           id="title774">Cena con la Madre: 0.33</title>
+      </rect>
+      <rect
+         x="780"
+         y="5.369656779281229"
+         height="0.9297428084954049"
+         width="5"
+         fill="black"
+         id="rect780">
+        <title
+           id="title778">Preparo el desayuno a Marilú: 0.8300000000000001</title>
+      </rect>
+      <rect
+         x="780"
+         y="11.299399587776634"
+         height="1.1201720584281816"
+         width="5"
+         fill="black"
+         id="rect784">
+        <title
+           id="title782">Cena con la Abuela: 1</title>
+      </rect>
+      <rect
+         x="780"
+         y="17.419571646204815"
+         height="1.1201720584281816"
+         width="5"
+         fill="black"
+         id="rect788">
+        <title
+           id="title786">Tablet + TV: 1</title>
+      </rect>
+      <rect
+         x="780"
+         y="23.539743704632997"
+         height="1.1201720584281247"
+         width="5"
+         fill="black"
+         id="rect792">
+        <title
+           id="title790">Cena Delivery: 1</title>
+      </rect>
+      <rect
+         x="780"
+         y="29.65991576306112"
+         height="1.1201720584281247"
+         width="5"
+         fill="black"
+         id="rect796">
+        <title
+           id="title794">Tiempo Marilú-Mamá: 1</title>
+      </rect>
+      <rect
+         x="780"
+         y="35.780087821489246"
+         height="1.3106013083609582"
+         width="5"
+         fill="black"
+         id="rect800">
+        <title
+           id="title798">Gimnasia artística: 1.17</title>
+      </rect>
+      <rect
+         x="780"
+         y="42.090689129850205"
+         height="1.5346357200466016"
+         width="5"
+         fill="black"
+         id="rect804">
+        <title
+           id="title802">Ir al Cole: 1.37</title>
+      </rect>
+      <rect
+         x="780"
+         y="48.625324849896806"
+         height="1.680258087642244"
+         width="5"
+         fill="black"
+         id="rect808">
+        <title
+           id="title806">Tarea: 1.5</title>
+      </rect>
+      <rect
+         x="780"
+         y="55.30558293753905"
+         height="1.960301102249332"
+         width="5"
+         fill="black"
+         id="rect812">
+        <title
+           id="title810">Preparar almuerzo: 1.75</title>
+      </rect>
+      <rect
+         x="780"
+         y="62.26588403978838"
+         height="2.049914866923551"
+         width="5"
+         fill="black"
+         id="rect816">
+        <title
+           id="title814">Aseo personal: 1.83</title>
+      </rect>
+      <rect
+         x="780"
+         y="69.31579890671193"
+         height="2.0499148669235865"
+         width="5"
+         fill="black"
+         id="rect820">
+        <title
+           id="title818">Cena en soledad: 1.83</title>
+      </rect>
+      <rect
+         x="780"
+         y="76.36571377363552"
+         height="2.0499148669235865"
+         width="5"
+         fill="black"
+         id="rect824">
+        <title
+           id="title822">Tiempo Marilú-Abuela: 1.83</title>
+      </rect>
+      <rect
+         x="780"
+         y="83.4156286405591"
+         height="2.240344116856363"
+         width="5"
+         fill="black"
+         id="rect828">
+        <title
+           id="title826">Estudio: 2</title>
+      </rect>
+      <rect
+         x="780"
+         y="90.65597275741547"
+         height="2.240344116856363"
+         width="5"
+         fill="black"
+         id="rect832">
+        <title
+           id="title830">Compras en el Super: 2</title>
+      </rect>
+      <rect
+         x="780"
+         y="97.89631687427183"
+         height="2.240344116856363"
+         width="5"
+         fill="black"
+         id="rect836">
+        <title
+           id="title834">Siesta: 2</title>
+      </rect>
+      <rect
+         x="780"
+         y="105.1366609911282"
+         height="2.43077336678914"
+         width="5"
+         fill="black"
+         id="rect840">
+        <title
+           id="title838">Merienda con Mamá: 2.17</title>
+      </rect>
+      <rect
+         x="780"
+         y="112.56743435791734"
+         height="2.531588852047676"
+         width="5"
+         fill="black"
+         id="rect844">
+        <title
+           id="title842">Despertar: 2.26</title>
+      </rect>
+      <rect
+         x="780"
+         y="120.09902320996501"
+         height="2.8004301460704255"
+         width="5"
+         fill="black"
+         id="rect848">
+        <title
+           id="title846">Tablet: 2.5</title>
+      </rect>
+      <rect
+         x="780"
+         y="127.89945335603544"
+         height="2.8004301460704397"
+         width="5"
+         fill="black"
+         id="rect852">
+        <title
+           id="title850">Llevar a Marilú a Casa: 2.5</title>
+      </rect>
+      <rect
+         x="780"
+         y="135.69988350210588"
+         height="3.248498969441698"
+         width="5"
+         fill="black"
+         id="rect856">
+        <title
+           id="title854">Cambio de Ropa a Marilú: 2.9000000000000004</title>
+      </rect>
+      <rect
+         x="780"
+         y="143.94838247154757"
+         height="3.360516175284488"
+         width="5"
+         fill="black"
+         id="rect860">
+        <title
+           id="title858">Ocio + Varios: 3</title>
+      </rect>
+      <rect
+         x="780"
+         y="152.30889864683206"
+         height="3.360516175284488"
+         width="5"
+         fill="black"
+         id="rect864">
+        <title
+           id="title862">Votar en familia: 3</title>
+      </rect>
+      <rect
+         x="780"
+         y="160.66941482211655"
+         height="3.5397437046330253"
+         width="5"
+         fill="black"
+         id="rect868">
+        <title
+           id="title866">Preparar cena: 3.16</title>
+      </rect>
+      <rect
+         x="780"
+         y="169.20915852674958"
+         height="3.5397437046330538"
+         width="5"
+         fill="black"
+         id="rect872">
+        <title
+           id="title870">Baño Marilú: 3.16</title>
+      </rect>
+      <rect
+         x="780"
+         y="177.74890223138263"
+         height="3.5397437046330538"
+         width="5"
+         fill="black"
+         id="rect876">
+        <title
+           id="title874">Almuerzo: 3.16</title>
+      </rect>
+      <rect
+         x="780"
+         y="186.28864593601568"
+         height="3.6069540281387162"
+         width="5"
+         fill="black"
+         id="rect880">
+        <title
+           id="title878">Break del trabajo: 3.22</title>
+      </rect>
+      <rect
+         x="780"
+         y="194.8955999641544"
+         height="4.559100277802685"
+         width="5"
+         fill="black"
+         id="rect884">
+        <title
+           id="title882">Desayuno: 4.07</title>
+      </rect>
+      <rect
+         x="780"
+         y="204.45470024195708"
+         height="5.051975983511056"
+         width="5"
+         fill="black"
+         id="rect888">
+        <title
+           id="title886">Almuerzo en solitario: 4.51</title>
+      </rect>
+      <rect
+         x="780"
+         y="214.50667622546814"
+         height="5.085581145263916"
+         width="5"
+         fill="black"
+         id="rect892">
+        <title
+           id="title890">Gym + Aseo personal: 4.54</title>
+      </rect>
+      <rect
+         x="780"
+         y="224.59225737073206"
+         height="5.410431042208074"
+         width="5"
+         fill="black"
+         id="rect896">
+        <title
+           id="title894">Tele con Mamá: 4.83</title>
+      </rect>
+      <rect
+         x="780"
+         y="235.00268841294013"
+         height="5.410431042208074"
+         width="5"
+         fill="black"
+         id="rect900">
+        <title
+           id="title898">Merienda: 4.83</title>
+      </rect>
+      <rect
+         x="780"
+         y="245.4131194551482"
+         height="6.620216865310567"
+         width="5"
+         fill="black"
+         id="rect904">
+        <title
+           id="title902">Tablet + Tv: 5.91</title>
+      </rect>
+      <rect
+         x="780"
+         y="257.0333363204588"
+         height="7.460345909131661"
+         width="5"
+         fill="black"
+         id="rect908">
+        <title
+           id="title906">Salida del cole: 6.66</title>
+      </rect>
+      <rect
+         x="780"
+         y="269.49368222959043"
+         height="7.4715476297159285"
+         width="5"
+         fill="black"
+         id="rect912">
+        <title
+           id="title910">Diplomatura: 6.67</title>
+      </rect>
+      <rect
+         x="780"
+         y="281.96522985930636"
+         height="10.059145084684985"
+         width="5"
+         fill="black"
+         id="rect916">
+        <title
+           id="title914">Ocio: 8.98</title>
+      </rect>
+      <rect
+         x="780"
+         y="297.02437494399135"
+         height="10.652836275651907"
+         width="5"
+         fill="black"
+         id="rect920">
+        <title
+           id="title918">Cena en familia: 9.51</title>
+      </rect>
+      <rect
+         x="780"
+         y="312.67721121964325"
+         height="17.18343937628822"
+         width="5"
+         fill="black"
+         id="rect924">
+        <title
+           id="title922">Tiempo en familia: 15.34</title>
+      </rect>
+      <rect
+         x="780"
+         y="334.8606505959315"
+         height="19.042924993278973"
+         width="5"
+         fill="black"
+         id="rect928">
+        <title
+           id="title926">Tiempo Marilú-Papá: 17</title>
+      </rect>
+      <rect
+         x="780"
+         y="358.90357558921045"
+         height="35.29662156107179"
+         width="5"
+         fill="black"
+         id="rect932">
+        <title
+           id="title930">Trabajo: 31.50999999999999</title>
+      </rect>
+      <rect
+         x="520"
+         y="97.49999999999997"
+         height="41.63679541177521"
+         width="5"
+         fill="black"
+         id="rect936">
+        <title
+           id="title934">1: 37.17</title>
+      </rect>
+      <rect
+         x="780"
+         y="399.20019715028224"
+         height="44.6164530871942"
+         width="5"
+         fill="black"
+         id="rect940">
+        <title
+           id="title938">En el Cole: 39.83</title>
+      </rect>
+      <rect
+         x="520"
+         y="144.13679541177518"
+         height="52.35684201093284"
+         width="5"
+         fill="black"
+         id="rect944">
+        <title
+           id="title942">0.5: 46.739999999999995</title>
+      </rect>
+      <rect
+         x="260"
+         y="99.99999999999994"
+         height="93.06389461421276"
+         width="5"
+         fill="black"
+         id="rect948">
+        <title
+           id="title946">Si: 83.08</title>
+      </rect>
+      <rect
+         x="780"
+         y="448.81665023747644"
+         height="131.18334976252356"
+         width="5"
+         fill="black"
+         id="rect952">
+        <title
+           id="title950">Dormir: 117.11</title>
+      </rect>
+      <rect
+         x="0"
+         y="100"
+         height="187.2255578456851"
+         width="5"
+         fill="black"
+         id="rect956">
+        <title
+           id="title954">Marilú: 167.14</title>
+      </rect>
+      <rect
+         x="0"
+         y="292.2255578456851"
+         height="187.7744421543149"
+         width="5"
+         fill="black"
+         id="rect960">
+        <title
+           id="title958">Julián: 167.62999999999997</title>
+      </rect>
+      <rect
+         x="520"
+         y="201.49363742270802"
+         height="281.00636257729195"
+         width="5"
+         fill="black"
+         id="rect964">
+        <title
+           id="title962">0: 250.86000000000007</title>
+      </rect>
+      <rect
+         x="260"
+         y="198.0638946142127"
+         height="281.93610538578736"
+         width="5"
+         fill="black"
+         id="rect968">
+        <title
+           id="title966">No: 251.69000000000008</title>
+      </rect>
+    </g>
+    <g
+       fill="none"
+       stroke-opacity="1"
+       id="g1320">
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g976">
+        <path
+           d="M5,410.62214356125105C132.5,410.62214356125105,132.5,410.622143561251,260,410.622143561251"
+           stroke="#8c564b"
+           stroke-width="138.75571287749798"
+           id="path972" />
+        <title
+           id="title974">Julián → No: 123.86999999999998</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g982">
+        <path
+           d="M5,316.73492248409354C132.5,316.73492248409354,132.5,168.55452997580423,260,168.55452997580423"
+           stroke="#8c564b"
+           stroke-width="49.01872927681692"
+           id="path978" />
+        <title
+           id="title980">Julián → Si: 43.76</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g988">
+        <path
+           d="M5,215.63536159154046C132.5,215.63536159154046,132.5,269.65409086835734,260,269.65409086835734"
+           stroke="#e377c2"
+           stroke-width="143.1803925082893"
+           id="path984" />
+        <title
+           id="title986">Marilú → No: 127.82</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g994">
+        <path
+           d="M5,122.02258266869791C132.5,122.02258266869791,132.5,122.02258266869785,260,122.02258266869785"
+           stroke="#e377c2"
+           stroke-width="44.04516533739583"
+           id="path990" />
+        <title
+           id="title992">Marilú → Si: 39.32</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1000">
+        <path
+           d="M265,339.4968187113541C392.5,339.4968187113541,392.5,341.996818711354,520,341.996818711354"
+           stroke="#d62728"
+           stroke-width="281.006362577292"
+           id="path996" />
+        <title
+           id="title998">No → 0: 250.86000000000007</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1006">
+        <path
+           d="M265,167.35034501299396C392.5,167.35034501299396,392.5,169.85034501299393,520,169.85034501299393"
+           stroke="#9467bd"
+           stroke-width="51.427099202437496"
+           id="path1002" />
+        <title
+           id="title1004">Si → 0.5: 45.91</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1012">
+        <path
+           d="M265,120.81839770588758C392.5,120.81839770588758,392.5,118.3183977058876,520,118.3183977058876"
+           stroke="#9467bd"
+           stroke-width="41.63679541177525"
+           id="path1008" />
+        <title
+           id="title1010">Si → 1: 37.17</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1018">
+        <path
+           d="M265,198.5287660184604C392.5,198.5287660184604,392.5,196.02876601846037,520,196.02876601846037"
+           stroke="#d62728"
+           stroke-width="1"
+           id="path1014" />
+        <title
+           id="title1016">No → 0.5: 0.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1024">
+        <path
+           d="M525,221.79115512142656C652.5,221.79115512142656,652.5,113.83322878394117,780,113.83322878394117"
+           stroke="#1f77b4"
+           stroke-width="2.5315888520476744"
+           id="path1020" />
+        <title
+           id="title1022">0 → Despertar: 2.26</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1030">
+        <path
+           d="M525,234.7347432565641C652.5,234.7347432565641,652.5,197.17515010305573,780,197.17515010305573"
+           stroke="#1f77b4"
+           stroke-width="4.5591002778026715"
+           id="path1026" />
+        <title
+           id="title1028">0 → Desayuno: 4.07</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1036">
+        <path
+           d="M525,207.3689398691638C652.5,207.3689398691638,652.5,63.29084147325016,780,63.29084147325016"
+           stroke="#1f77b4"
+           stroke-width="2.04991486692356"
+           id="path1032" />
+        <title
+           id="title1034">0 → Aseo personal: 1.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1042">
+        <path
+           d="M525,158.02692893628452C652.5,158.02692893628452,652.5,137.32413298682673,780,137.32413298682673"
+           stroke="#ff7f0e"
+           stroke-width="3.248498969441707"
+           id="path1038" />
+        <title
+           id="title1040">0.5 → Cambio de Ropa a Marilú: 2.9000000000000004</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1048">
+        <path
+           d="M525,148.07420019715022C652.5,148.07420019715022,652.5,42.8580069898735,780,42.8580069898735"
+           stroke="#ff7f0e"
+           stroke-width="1.5346357200465994"
+           id="path1044" />
+        <title
+           id="title1046">0.5 → Ir al Cole: 1.37</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1054">
+        <path
+           d="M525,244.60905995160846C652.5,244.60905995160846,652.5,217.0494667981001,780,217.0494667981001"
+           stroke="#1f77b4"
+           stroke-width="5.085581145263913"
+           id="path1050" />
+        <title
+           id="title1052">0 → Gym + Aseo personal: 4.54</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1060">
+        <path
+           d="M525,289.8920154135674C652.5,289.8920154135674,652.5,377.39201541356744,780,377.39201541356744"
+           stroke="#1f77b4"
+           stroke-width="33.61636347342951"
+           id="path1056" />
+        <title
+           id="title1058">0 → Trabajo: 30.00999999999999</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1066">
+        <path
+           d="M525,230.6517161035934C652.5,230.6517161035934,652.5,188.09212295008504,780,188.09212295008504"
+           stroke="#1f77b4"
+           stroke-width="3.606954028138723"
+           id="path1062" />
+        <title
+           id="title1064">0 → Break del trabajo: 3.22</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1072">
+        <path
+           d="M525,239.54028138722097C652.5,239.54028138722097,652.5,206.9806882337126,780,206.9806882337126"
+           stroke="#1f77b4"
+           stroke-width="5.051975983511068"
+           id="path1068" />
+        <title
+           id="title1070">0 → Almuerzo en solitario: 4.51</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1078">
+        <path
+           d="M525,129.61533291513575C652.5,129.61533291513575,652.5,344.38211309257093,780,344.38211309257093"
+           stroke="#2ca02c"
+           stroke-width="19.04292499327897"
+           id="path1074" />
+        <title
+           id="title1076">1 → Tiempo Marilú-Papá: 17</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1084">
+        <path
+           d="M525,164.7815664486064C652.5,164.7815664486064,652.5,162.43928667443308,780,162.43928667443308"
+           stroke="#ff7f0e"
+           stroke-width="3.539743704633032"
+           id="path1080" />
+        <title
+           id="title1082">0.5 → Preparar cena: 3.16</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1090">
+        <path
+           d="M525,189.4869611972398C652.5,189.4869611972398,652.5,302.3507930818173,780,302.3507930818173"
+           stroke="#ff7f0e"
+           stroke-width="10.652836275651941"
+           id="path1086" />
+        <title
+           id="title1088">0.5 → Cena en familia: 9.51</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1096">
+        <path
+           d="M525,152.11242046778378C652.5,152.11242046778378,652.5,83.9757146697732,780,83.9757146697732"
+           stroke="#ff7f0e"
+           stroke-width="1.1201720584281747"
+           id="path1092" />
+        <title
+           id="title1094">0.5 → Estudio: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1102">
+        <path
+           d="M525,268.33430414911714C652.5,268.33430414911714,652.5,287.27484541625586,780,287.27484541625586"
+           stroke="#1f77b4"
+           stroke-width="9.499059055470921"
+           id="path1098" />
+        <title
+           id="title1100">0 → Ocio: 8.48</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1108">
+        <path
+           d="M525,416.9083251187381C652.5,416.9083251187381,652.5,514.4083251187382,780,514.4083251187382"
+           stroke="#1f77b4"
+           stroke-width="131.18334976252353"
+           id="path1104" />
+        <title
+           id="title1106">0 → Dormir: 117.11</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1114">
+        <path
+           d="M525,329.0084236938792C652.5,329.0084236938792,652.5,421.5084236938793,780,421.5084236938793"
+           stroke="#1f77b4"
+           stroke-width="44.616453087194195"
+           id="path1110" />
+        <title
+           id="title1112">0 → En el Cole: 39.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1120">
+        <path
+           d="M525,255.36271171251892C652.5,255.36271171251892,652.5,263.74316695044354,780,263.74316695044354"
+           stroke="#1f77b4"
+           stroke-width="1.5010305582937542"
+           id="path1116" />
+        <title
+           id="title1118">0 → Salida del cole: 1.34</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1126">
+        <path
+           d="M525,219.30997401200815C652.5,219.30997401200815,652.5,106.35204767452277,780,106.35204767452277"
+           stroke="#1f77b4"
+           stroke-width="2.430773366789139"
+           id="path1122" />
+        <title
+           id="title1124">0 → Merienda con Mamá: 2.17</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1132">
+        <path
+           d="M525,228.56819607491698C652.5,228.56819607491698,652.5,172.46885921677554,780,172.46885921677554"
+           stroke="#1f77b4"
+           stroke-width="1"
+           id="path1128" />
+        <title
+           id="title1130">0 → Baño Marilú: 0.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1138">
+        <path
+           d="M525,153.13737790124557C652.5,153.13737790124557,652.5,120.5638946142127,780,120.5638946142127"
+           stroke="#ff7f0e"
+           stroke-width="1"
+           id="path1134" />
+        <title
+           id="title1136">0.5 → Tablet: 0.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1144">
+        <path
+           d="M525,249.85706604534445C652.5,249.85706604534445,652.5,227.2974728918361,780,227.2974728918361"
+           stroke="#1f77b4"
+           stroke-width="5.410431042208084"
+           id="path1140" />
+        <title
+           id="title1142">0 → Tele con Mamá: 4.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1150">
+        <path
+           d="M525,259.84900080652375C652.5,259.84900080652375,652.5,273.2294560444484,780,273.2294560444484"
+           stroke="#1f77b4"
+           stroke-width="7.471547629715925"
+           id="path1146" />
+        <title
+           id="title1148">0 → Diplomatura: 6.67</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1156">
+        <path
+           d="M525,209.41885473608735C652.5,209.41885473608735,652.5,70.34075634017371,780,70.34075634017371"
+           stroke="#1f77b4"
+           stroke-width="2.04991486692356"
+           id="path1152" />
+        <title
+           id="title1154">0 → Cena en soledad: 1.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1162">
+        <path
+           d="M525,223.99229321623793C652.5,223.99229321623793,652.5,121.96410968724793,780,121.96410968724793"
+           stroke="#1f77b4"
+           stroke-width="1.8706873375750517"
+           id="path1158" />
+        <title
+           id="title1160">0 → Tablet: 1.67</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1168">
+        <path
+           d="M525,205.87911103145433C652.5,205.87911103145433,652.5,49.840711533291376,780,49.840711533291376"
+           stroke="#1f77b4"
+           stroke-width="1"
+           id="path1164" />
+        <title
+           id="title1166">0 → Tarea: 0.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1174">
+        <path
+           d="M525,201.67846581234866C652.5,201.67846581234866,652.5,0.18482838964059198,780,0.18482838964059198"
+           stroke="#1f77b4"
+           stroke-width="1"
+           id="path1170" />
+        <title
+           id="title1172">0 → Cena con la Madre: 0.33</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1180">
+        <path
+           d="M525,180.62079935478076C652.5,180.62079935478076,652.5,260.0129939958777,780,260.0129939958777"
+           stroke="#ff7f0e"
+           stroke-width="5.9593153508378895"
+           id="path1176" />
+        <title
+           id="title1178">0.5 → Salida del cole: 5.32</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1186">
+        <path
+           d="M525,100.20521552110401C652.5,100.20521552110401,652.5,237.70790393404417,780,237.70790393404417"
+           stroke="#2ca02c"
+           stroke-width="5.410431042208084"
+           id="path1182" />
+        <title
+           id="title1184">1 → Merienda: 4.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1192">
+        <path
+           d="M525,168.04126713863238C652.5,168.04126713863238,652.5,170.69898736445904,780,170.69898736445904"
+           stroke="#ff7f0e"
+           stroke-width="2.9796576754189448"
+           id="path1188" />
+        <title
+           id="title1190">0.5 → Baño Marilú: 2.66</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1198">
+        <path
+           d="M525,149.21677569674696C652.5,149.21677569674696,652.5,49.00058248947025,780,49.00058248947025"
+           stroke="#ff7f0e"
+           stroke-width="1"
+           id="path1194" />
+        <title
+           id="title1196">0.5 → Tarea: 0.67</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1204">
+        <path
+           d="M525,155.00246437852846C652.5,155.00246437852846,652.5,129.29966842907066,780,129.29966842907066"
+           stroke="#ff7f0e"
+           stroke-width="2.8004301460704366"
+           id="path1200" />
+        <title
+           id="title1202">0.5 → Llevar a Marilú a Casa: 2.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1210">
+        <path
+           d="M525,204.75893897302615C652.5,204.75893897302615,652.5,36.435388475669725,780,36.435388475669725"
+           stroke="#1f77b4"
+           stroke-width="1.3106013083609642"
+           id="path1206" />
+        <title
+           id="title1208">0 → Gimnasia artística: 1.17</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1216">
+        <path
+           d="M525,211.4687696030109C652.5,211.4687696030109,652.5,77.3906712070973,780,77.3906712070973"
+           stroke="#1f77b4"
+           stroke-width="2.04991486692356"
+           id="path1212" />
+        <title
+           id="title1214">0 → Tiempo Marilú-Abuela: 1.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1222">
+        <path
+           d="M525,202.4233802312034C652.5,202.4233802312034,652.5,11.859485616990721,780,11.859485616990721"
+           stroke="#1f77b4"
+           stroke-width="1.1201720584281747"
+           id="path1218" />
+        <title
+           id="title1220">0 → Cena con la Abuela: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1228">
+        <path
+           d="M525,195.65350837888687C652.5,195.65350837888687,652.5,359.7437046330316,780,359.7437046330316"
+           stroke="#ff7f0e"
+           stroke-width="1.6802580876422621"
+           id="path1224" />
+        <title
+           id="title1226">0.5 → Trabajo: 1.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1234">
+        <path
+           d="M525,213.05381306568677C652.5,213.05381306568677,652.5,85.09588672820138,780,85.09588672820138"
+           stroke="#1f77b4"
+           stroke-width="1.1201720584281747"
+           id="path1230" />
+        <title
+           id="title1232">0 → Estudio: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1240">
+        <path
+           d="M525,145.62662424948465C652.5,145.62662424948465,652.5,17.979657675418903,780,17.979657675418903"
+           stroke="#ff7f0e"
+           stroke-width="1.1201720584281747"
+           id="path1236" />
+        <title
+           id="title1238">0.5 → Tablet + TV: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1246">
+        <path
+           d="M525,214.73407115332904C652.5,214.73407115332904,652.5,91.77614481584365,780,91.77614481584365"
+           stroke="#1f77b4"
+           stroke-width="2.2403441168563494"
+           id="path1242" />
+        <title
+           id="title1244">0 → Compras en el Super: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1252">
+        <path
+           d="M525,144.60166681602288C652.5,144.60166681602288,652.5,5.8345281835289216,780,5.8345281835289216"
+           stroke="#ff7f0e"
+           stroke-width="1"
+           id="path1248" />
+        <title
+           id="title1250">0.5 → Preparo el desayuno a Marilú: 0.8300000000000001</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1258">
+        <path
+           d="M525,150.57218388744505C652.5,150.57218388744505,652.5,56.2857334886637,780,56.2857334886637"
+           stroke="#ff7f0e"
+           stroke-width="1.9603011022493058"
+           id="path1254" />
+        <title
+           id="title1256">0.5 → Preparar almuerzo: 1.75</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1264">
+        <path
+           d="M525,171.30096782865837C652.5,171.30096782865837,652.5,179.51877408369916,780,179.51877408369916"
+           stroke="#ff7f0e"
+           stroke-width="3.539743704633032"
+           id="path1260" />
+        <title
+           id="title1262">0.5 → Almuerzo: 3.16</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1270">
+        <path
+           d="M525,111.50215073035216C652.5,111.50215073035216,652.5,321.26893090778736,780,321.26893090778736"
+           stroke="#2ca02c"
+           stroke-width="17.1834393762882"
+           id="path1266" />
+        <title
+           id="title1268">1 → Tiempo en familia: 15.34</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1276">
+        <path
+           d="M525,146.74679630791283C652.5,146.74679630791283,652.5,24.099829733847084,780,24.099829733847084"
+           stroke="#ff7f0e"
+           stroke-width="1.1201720584281747"
+           id="path1272" />
+        <title
+           id="title1274">0.5 → Cena Delivery: 1</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1282">
+        <path
+           d="M525,226.6078949726677C652.5,226.6078949726677,652.5,145.62864055918985,780,145.62864055918985"
+           stroke="#1f77b4"
+           stroke-width="3.3605161752845243"
+           id="path1278" />
+        <title
+           id="title1280">0 → Ocio + Varios: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1288">
+        <path
+           d="M525,175.35599068016836C652.5,175.35599068016836,652.5,247.6982704543417,780,247.6982704543417"
+           stroke="#ff7f0e"
+           stroke-width="4.570301998386952"
+           id="path1284" />
+        <title
+           id="title1286">0.5 → Tablet + Tv: 4.08</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1294">
+        <path
+           d="M525,253.58723899991028C652.5,253.58723899991028,652.5,251.00837888699695,780,251.00837888699695"
+           stroke="#1f77b4"
+           stroke-width="2.04991486692356"
+           id="path1290" />
+        <title
+           id="title1292">0 → Tablet + Tv: 1.83</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1300">
+        <path
+           d="M525,161.33143650864764C652.5,161.33143650864764,652.5,153.98915673447434,780,153.98915673447434"
+           stroke="#ff7f0e"
+           stroke-width="3.3605161752845243"
+           id="path1296" />
+        <title
+           id="title1298">0.5 → Votar en familia: 3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1306">
+        <path
+           d="M525,183.88050004480675C652.5,183.88050004480675,652.5,282.2452728739134,780,282.2452728739134"
+           stroke="#ff7f0e"
+           stroke-width="1"
+           id="path1302" />
+        <title
+           id="title1304">0.5 → Ocio: 0.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1312">
+        <path
+           d="M525,216.9744152701854C652.5,216.9744152701854,652.5,99.01648893270001,780,99.01648893270001"
+           stroke="#1f77b4"
+           stroke-width="2.2403441168563494"
+           id="path1308" />
+        <title
+           id="title1310">0 → Siesta: 2</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g1318">
+        <path
+           d="M525,203.54355228963158C652.5,203.54355228963158,652.5,30.22000179227521,780,30.22000179227521"
+           stroke="#1f77b4"
+           stroke-width="1.1201720584281747"
+           id="path1314" />
+        <title
+           id="title1316">0 → Tiempo Marilú-Mamá: 1</title>
+      </g>
+    </g>
+    <g
+       id="g1518">
+      <text
+         x="776"
+         y="0.184828389640586"
+         text-anchor="end"
+         id="text1324"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1322">Cena con la Madre</tspan></text>
+      <text
+         x="776"
+         y="5.834528183528931"
+         text-anchor="end"
+         id="text1328"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1326">Preparo el desayuno a Marilú</tspan></text>
+      <text
+         x="776"
+         y="11.859485616990725"
+         text-anchor="end"
+         id="text1332"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1330">Cena con la Abuela</tspan></text>
+      <text
+         x="776"
+         y="17.979657675418906"
+         text-anchor="end"
+         id="text1336"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1334">Tablet + TV</tspan></text>
+      <text
+         x="776"
+         y="24.09982973384706"
+         text-anchor="end"
+         id="text1340"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1338">Cena Delivery</tspan></text>
+      <text
+         x="776"
+         y="30.220001792275184"
+         text-anchor="end"
+         id="text1344"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1342">Tiempo Marilú-Mamá</tspan></text>
+      <text
+         x="776"
+         y="36.435388475669725"
+         text-anchor="end"
+         id="text1348"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1346">Gimnasia artística</tspan></text>
+      <text
+         x="776"
+         y="42.8580069898735"
+         text-anchor="end"
+         id="text1352"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1350">Ir al Cole</tspan></text>
+      <text
+         x="776"
+         y="49.46545389371793"
+         text-anchor="end"
+         id="text1356"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1354">Tarea</tspan></text>
+      <text
+         x="776"
+         y="56.285733488663716"
+         text-anchor="end"
+         id="text1360"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1358">Preparar almuerzo</tspan></text>
+      <text
+         x="776"
+         y="63.290841473250154"
+         text-anchor="end"
+         id="text1364"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1362">Aseo personal</tspan></text>
+      <text
+         x="776"
+         y="70.34075634017373"
+         text-anchor="end"
+         id="text1368"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1366">Cena en soledad</tspan></text>
+      <text
+         x="776"
+         y="77.39067120709731"
+         text-anchor="end"
+         id="text1372"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1370">Tiempo Marilú-Abuela</tspan></text>
+      <text
+         x="776"
+         y="84.53580069898729"
+         text-anchor="end"
+         id="text1376"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1374">Estudio</tspan></text>
+      <text
+         x="776"
+         y="91.77614481584365"
+         text-anchor="end"
+         id="text1380"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1378">Compras en el Super</tspan></text>
+      <text
+         x="776"
+         y="99.01648893270001"
+         text-anchor="end"
+         id="text1384"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1382">Siesta</tspan></text>
+      <text
+         x="776"
+         y="106.35204767452277"
+         text-anchor="end"
+         id="text1388"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1386">Merienda con Mamá</tspan></text>
+      <text
+         x="776"
+         y="113.83322878394117"
+         text-anchor="end"
+         id="text1392"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1390">Despertar</tspan></text>
+      <text
+         x="776"
+         y="121.49923828300022"
+         text-anchor="end"
+         id="text1396"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1394">Tablet</tspan></text>
+      <text
+         x="776"
+         y="129.29966842907066"
+         text-anchor="end"
+         id="text1400"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1398">Llevar a Marilú a Casa</tspan></text>
+      <text
+         x="776"
+         y="137.32413298682673"
+         text-anchor="end"
+         id="text1404"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1402">Cambio de Ropa a Marilú</tspan></text>
+      <text
+         x="776"
+         y="145.62864055918982"
+         text-anchor="end"
+         id="text1408"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1406">Ocio + Varios</tspan></text>
+      <text
+         x="776"
+         y="153.9891567344743"
+         text-anchor="end"
+         id="text1412"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1410">Votar en familia</tspan></text>
+      <text
+         x="776"
+         y="162.43928667443305"
+         text-anchor="end"
+         id="text1416"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1414">Preparar cena</tspan></text>
+      <text
+         x="776"
+         y="170.9790303790661"
+         text-anchor="end"
+         id="text1420"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1418">Baño Marilú</tspan></text>
+      <text
+         x="776"
+         y="179.51877408369916"
+         text-anchor="end"
+         id="text1424"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1422">Almuerzo</tspan></text>
+      <text
+         x="776"
+         y="188.09212295008504"
+         text-anchor="end"
+         id="text1428"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1426">Break del trabajo</tspan></text>
+      <text
+         x="776"
+         y="197.17515010305573"
+         text-anchor="end"
+         id="text1432"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1430">Desayuno</tspan></text>
+      <text
+         x="776"
+         y="206.9806882337126"
+         text-anchor="end"
+         id="text1436"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1434">Almuerzo en solitario</tspan></text>
+      <text
+         x="776"
+         y="217.0494667981001"
+         text-anchor="end"
+         id="text1440"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1438">Gym + Aseo personal</tspan></text>
+      <text
+         x="776"
+         y="227.2974728918361"
+         text-anchor="end"
+         id="text1444"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1442">Tele con Mamá</tspan></text>
+      <text
+         x="776"
+         y="237.70790393404417"
+         text-anchor="end"
+         id="text1448"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1446">Merienda</tspan></text>
+      <text
+         x="776"
+         y="248.7232278878035"
+         text-anchor="end"
+         id="text1452"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1450">Tablet + Tv</tspan></text>
+      <text
+         x="776"
+         y="260.7635092750246"
+         text-anchor="end"
+         id="text1456"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1454">Salida del cole</tspan></text>
+      <text
+         x="776"
+         y="273.2294560444484"
+         text-anchor="end"
+         id="text1460"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1458">Diplomatura</tspan></text>
+      <text
+         x="776"
+         y="286.9948024016488"
+         text-anchor="end"
+         id="text1464"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1462">Ocio</tspan></text>
+      <text
+         x="776"
+         y="302.3507930818173"
+         text-anchor="end"
+         id="text1468"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1466">Cena en familia</tspan></text>
+      <text
+         x="776"
+         y="321.26893090778736"
+         text-anchor="end"
+         id="text1472"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1470">Tiempo en familia</tspan></text>
+      <text
+         x="776"
+         y="344.382113092571"
+         text-anchor="end"
+         id="text1476"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1474">Tiempo Marilú-Papá</tspan></text>
+      <text
+         x="776"
+         y="376.55188636974634"
+         text-anchor="end"
+         id="text1480"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1478">Trabajo</tspan></text>
+      <text
+         x="516"
+         y="118.31839770588758"
+         text-anchor="end"
+         id="text1484"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1482">1</tspan></text>
+      <text
+         x="776"
+         y="421.5084236938793"
+         text-anchor="end"
+         id="text1488"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1486">En el Cole</tspan></text>
+      <text
+         x="516"
+         y="170.3152164172416"
+         text-anchor="end"
+         id="text1492"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1490">0.5</tspan></text>
+      <text
+         x="269"
+         y="146.53194730710632"
+         text-anchor="start"
+         id="text1496"><tspan
+           alignment-baseline="middle"
+           x="269"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1494">Si</tspan></text>
+      <text
+         x="776"
+         y="514.4083251187383"
+         text-anchor="end"
+         id="text1500"><tspan
+           alignment-baseline="middle"
+           x="776"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1498">Dormir</tspan></text>
+      <text
+         x="9"
+         y="193.61277892284255"
+         text-anchor="start"
+         id="text1504"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1502">Marilú</tspan></text>
+      <text
+         x="9"
+         y="386.11277892284255"
+         text-anchor="start"
+         id="text1508"><tspan
+           alignment-baseline="middle"
+           x="9"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1506">Julián</tspan></text>
+      <text
+         x="516"
+         y="341.99681871135397"
+         text-anchor="end"
+         id="text1512"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1510">0</tspan></text>
+      <text
+         x="269"
+         y="339.0319473071064"
+         text-anchor="start"
+         id="text1516"><tspan
+           alignment-baseline="middle"
+           x="269"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan1514">No</tspan></text>
+    </g>
+    <g
+       id="g1528"
+       transform="matrix(0.96058943,0,0,1.0409241,19.264914,-3.93471)">
+      <text
+         x="691.39398"
+         y="565.99841"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text1520">Actividad</text>
+      <text
+         x="522.5"
+         y="93.5"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text1522">Estrellas</text>
+      <text
+         x="262.5"
+         y="96"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text1524">Momento Juntos</text>
+      <text
+         x="4.0441694"
+         y="94.575005"
+         text-anchor="middle"
+         style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+         id="text1526">Nombre</text>
+    </g>
+  </g>
+</svg>
