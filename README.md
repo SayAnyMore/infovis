@@ -6,7 +6,7 @@ https://sayanymore.github.io/infovis/
 
 * [Tableau - ¿Cuanto tiempo "de calidad" paso con mi hija?](https://public.tableau.com/views/Tp_v2/Historia?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 * [RawGraph - ¿Cuanto tiempo "de calidad" paso con mi hija?](https://sayanymore.github.io/infovis/tp_rawgraphic.html)
-* [Flourish - ¿Cuanto tiempo "de calidad" paso con mi hija?](https://public.flourish.studio/visualisation/7937162/)
+* [Flourish - ¿Cuanto tiempo "de calidad" paso con mi hija?](https://public.flourish.studio/visualisation/7937265/)
 
 ## Bitacora de la materia.
 
