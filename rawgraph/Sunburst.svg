@@ -1,1 +1,914 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720"><rect width="1280" height="720" x="0" y="0" fill="#e6b2b2" id="backgorund"/><g transform="translate(640,360)" id="viz"><path fill="#cccccc" display="" d="M0.999994557832053,-231.33117196347627A231.33333333333334,231.33333333333334,0,1,1,-143.05506847381687,181.797575602819L-71.75573451494493,91.99035642572461A116.66666666666667,116.66666666666667,0,1,0,0.9999945578320119,-116.6623809203096Z"><title>Julián</title></path><path fill="#cccccc" display="" d="M-144.62143591545694,180.5540123754177A231.33333333333334,231.33333333333334,0,0,1,-0.9999945578320812,-231.33117196347627L-0.9999945578320004,-116.6623809203096A116.66666666666667,116.66666666666667,0,0,0,-73.32210195658502,90.74679319832335Z"><title>Marilú</title></path><path fill="rgb(247, 251, 255)" display="" d="M0.9999945578320129,-347.99856323106326A348,348,0,0,1,72.75938848747496,-340.3087882892957L48.462762188048536,-228.2450549859714A233.33333333333334,233.33333333333334,0,0,0,0.9999945578320172,-233.33119048967447Z"><title>Despertar</title></path><path fill="rgb(247, 251, 255)" display="" d="M74.71396581412914,-339.88501483932055A348,348,0,0,1,133.47569324546032,-321.3848772307804L89.19080563746925,-215.61411047096067A233.33333333333334,233.33333333333334,0,0,0,50.41733951470272,-227.8212815359962Z"><title>Desayuno</title></path><path fill="rgb(247, 251, 255)" display="" d="M135.32051080094894,-320.6124753601616A348,348,0,0,1,189.7342289531917,-291.72747961674406L126.94008940959986,-195.78217014101986A233.33333333333334,233.33333333333334,0,0,0,91.03562319295791,-214.84170860034192Z"><title>Aseo personal</title></path><path fill="rgb(109, 174, 213)" display="" d="M191.4076742416195,-290.6322457013572A348,348,0,0,1,231.84961731914368,-259.5183133209805L155.208845568639,-174.22588413233788A233.33333333333334,233.33333333333334,0,0,0,128.6135346980276,-194.68693622563302Z"><title>Cambio de Ropa a Marilú</title></path><path fill="rgb(109, 174, 213)" display="" d="M233.3372587113517,-258.1815711801904A348,348,0,0,1,268.5831778140029,-221.28505732500716L179.87480392891518,-148.62536578921774A233.33333333333334,233.33333333333334,0,0,0,156.69648696084693,-172.8891419915478Z"><title>Ir al Cole</title></path><path fill="rgb(247, 251, 255)" display="" d="M269.8504833146428,-219.73783619316384A348,348,0,0,1,293.51738925551183,-186.9533155753819L196.625635111152,-125.62963050801571A233.33333333333334,233.33333333333334,0,0,0,181.142109429555,-147.07814465737442Z"><title>Gym + Aseo personal</title></path><path fill="rgb(227, 238, 249)" display="" d="M294.5869760066076,-185.26336272259127A348,348,0,0,1,347.06352892948274,25.512876886272373L232.72935599356003,16.77770256224758A233.33333333333334,233.33333333333334,0,0,0,197.6952218622477,-123.93967765522511Z"><title>Trabajo</title></path><path fill="rgb(247, 251, 255)" display="" d="M346.911173005092,27.507054444835713A348,348,0,0,1,323.38299016835623,128.55909796577143L216.9491847770246,85.89234930439896A233.33333333333334,233.33333333333334,0,0,0,232.57700006916926,18.771880120810913Z"><title>Break del trabajo</title></path><path fill="rgb(247, 251, 255)" display="" d="M322.6388113240744,130.41548001440742A348,348,0,0,1,300.0997818915583,176.19341902761053L201.3829561283959,117.85308407264114A233.33333333333334,233.33333333333334,0,0,0,216.20500593274278,87.74873135303496Z"><title>Almuerzo en solitario</title></path><path fill="rgb(8, 48, 107)" display="" d="M299.08222971324784,177.91520415566526A348,348,0,0,1,269.8504833146428,219.73783619316384L181.142109429555,147.07814465737442A233.33333333333334,233.33333333333334,0,0,0,200.3654039500855,119.5748692006958Z"><title>Tiempo Marilú-Papá</title></path><path fill="rgb(147, 195, 223)" display="" d="M268.5831778140029,221.28505732500716A348,348,0,0,1,241.1022789664028,250.94559385892174L161.8960616242267,168.03008562459596A233.33333333333334,233.33333333333334,0,0,0,179.87480392891518,148.62536578921774Z"><title>Preparar cena</title></path><path fill="rgb(109, 174, 213)" display="" d="M239.65609501691605,252.32708162470968A348,348,0,0,1,200.18181793871165,284.6598668002789L134.4909204536429,190.674163850209A233.33333333333334,233.33333333333334,0,0,0,160.44987767474,169.41157339038384Z"><title>Cena en familia</title></path><path fill="rgb(227, 238, 249)" display="" d="M198.54255143740176,285.80562497740783A348,348,0,0,1,182.45547685671534,296.33426896832L122.6165084199189,198.51860443634095A233.33333333333334,233.33333333333334,0,0,0,132.85165395233304,191.81992202733792Z"><title>Estudio</title></path><path fill="rgb(227, 238, 249)" display="" d="M180.74940947478794,297.377959799504A348,348,0,0,1,115.52300003629078,328.2658015429191L77.76868990268954,219.9919892070249A233.33333333333334,233.33333333333334,0,0,0,120.91044103799148,199.562295267525Z"><title>Ocio</title></path><path fill="rgb(247, 251, 255)" display="" d="M113.63452521554456,328.9242993137445A348,348,0,0,1,43.34438856209056,345.29011567112445L29.389236828280517,231.47508981118398A233.33333333333334,233.33333333333334,0,0,0,75.8802150819433,220.65048697785028Z"><title>Dormir</title></path><path fill="rgb(247, 251, 255)" display="" d="M41.35926578935318,345.53351665701786A348,348,0,0,1,22.213509416970858,347.2903108342963L15.222930844349424,232.83622317189523A233.33333333333334,233.33333333333334,0,0,0,27.404114055543122,231.71849079707735Z"><title>Diplomatura</title></path><path fill="rgb(247, 251, 255)" display="" d="M20.217240346741864,347.4122381159911A348,348,0,0,1,0.9999945578320129,347.99856323106326L0.9999945578320172,233.33119048967447A233.33333333333334,233.33333333333334,0,0,0,13.226661774120407,232.95815045358998Z"><title>Cena en soledad</title></path><path fill="rgb(181, 212, 233)" display="" d="M-0.9999945578319701,347.99856323106326A348,348,0,0,1,-30.802579852379996,346.6341025843212L-20.324841331387848,232.4464352690709A233.33333333333334,233.33333333333334,0,0,0,-0.9999945578319887,233.33119048967447Z"><title>Salida del cole</title></path><path fill="rgb(207, 225, 242)" display="" d="M-32.79420210999129,346.4513534509124A348,348,0,0,1,-41.35926578935329,345.53351665701786L-27.404114055543197,231.71849079707735A233.33333333333334,233.33333333333334,0,0,0,-22.316463588999166,232.26368613566203Z"><title>Merienda</title></path><path fill="rgb(207, 225, 242)" display="" d="M-43.344388562090664,345.29011567112445A348,348,0,0,1,-62.34743204674285,342.3693878213658L-41.479621232771265,229.61682313547993A233.33333333333334,233.33333333333334,0,0,0,-29.389236828280595,231.47508981118398Z"><title>Baño Marilú</title></path><path fill="rgb(227, 238, 249)" display="" d="M-64.31402373489074,342.0054185989279A348,348,0,0,1,-72.75938848747485,340.30878828929576L-48.46276218804846,228.2450549859714A233.33333333333334,233.33333333333334,0,0,0,-43.44621292091917,229.25285391304206Z"><title>Llevar a Marilú a Casa</title></path><path fill="rgb(247, 251, 255)" display="" d="M-74.71396581412903,339.88501483932055A348,348,0,0,1,-93.37062928828722,335.24010139944363L-62.287345142483865,224.86602918081144A233.33333333333334,233.33333333333334,0,0,0,-50.41733951470264,227.82128153599623Z"><title>Compras en el Super</title></path><path fill="rgb(207, 225, 242)" display="" d="M-95.2957361239224,334.6979573833694A348,348,0,0,1,-113.63452521554439,328.92429931374454L-75.88021508194319,220.6504869778503A233.33333333333334,233.33333333333334,0,0,0,-64.21245197811906,224.3238851647372Z"><title>Preparo el desayuno a Marilú</title></path><path fill="rgb(207, 225, 242)" display="" d="M-115.52300003629058,328.2658015429192A348,348,0,0,1,-133.47569324545998,321.3848772307805L-89.19080563746904,215.61411047096075A233.33333333333334,233.33333333333334,0,0,0,-77.76868990268942,219.99198920702494Z"><title>Preparar almuerzo</title></path><path fill="rgb(207, 225, 242)" display="" d="M-135.32051080094863,320.6124753601618A348,348,0,0,1,-152.82032292979054,312.6498822958911L-102.16960053795246,209.77563531153868A233.33333333333334,233.33333333333334,0,0,0,-91.0356231929577,214.841708600342Z"><title>Almuerzo</title></path><path fill="rgb(75, 151, 201)" display="" d="M-154.6146203775473,311.7664497111691A348,348,0,0,1,-180.74940947478757,297.37795979950425L-120.91044103799126,199.56229526752514A233.33333333333334,233.33333333333334,0,0,0,-103.96389798570912,208.89220272681678Z"><title>Tiempo en familia</title></path><path fill="rgb(227, 238, 249)" display="" d="M-182.4554768567151,296.33426896832015A348,348,0,0,1,-189.7342289531914,291.7274796167443L-126.94008940959968,195.78217014101998A233.33333333333334,233.33333333333334,0,0,0,-122.6165084199187,198.51860443634106Z"><title>Cena Delivery</title></path><path fill="rgb(247, 251, 255)" display="" d="M-191.40767424161922,290.6322457013574A348,348,0,0,1,-198.5425514374014,285.80562497740806L-132.85165395233284,191.81992202733807A233.33333333333334,233.33333333333334,0,0,0,-128.61353469802742,194.68693622563316Z"><title>Ocio + Varios</title></path><path fill="rgb(227, 238, 249)" display="" d="M-200.18181793871142,284.659866800279A348,348,0,0,1,-207.16618313734125,279.61790458464134L-138.63963553522987,187.67923673945148A233.33333333333334,233.33333333333334,0,0,0,-134.4909204536427,190.6741638502091Z"><title>Votar en familia</title></path><path fill="rgb(247, 251, 255)" display="" d="M-208.76974595214244,278.42268796755394A348,348,0,0,1,-215.59710206835123,273.17007445862174L-144.2986499882469,183.36396607843608A233.33333333333334,233.33333333333334,0,0,0,-140.24319835003098,186.48402012236417Z"><title>Siesta</title></path><path fill="rgb(247, 251, 255)" display="" d="M-217.1634695099916,271.9265112312202A348,348,0,0,1,-268.58317781400285,221.28505732500722L-179.87480392891516,148.62536578921777A233.33333333333334,233.33333333333334,0,0,0,-145.8650174298871,182.12040285103473Z"><title>Despertar</title></path><path fill="rgb(247, 251, 255)" display="" d="M-269.8504833146428,219.73783619316384A348,348,0,0,1,-309.3723445795499,159.3510351687501L-207.28247677113407,107.13738501600974A233.33333333333334,233.33333333333334,0,0,0,-181.142109429555,147.07814465737445Z"><title>Desayuno</title></path><path fill="rgb(109, 174, 213)" display="" d="M-310.28303721598184,157.57041859443552A348,348,0,0,1,-329.9893382928055,110.50355927786387L-221.15236877747105,74.40479976828044A233.33333333333334,233.33333333333334,0,0,0,-208.19316940756593,105.3567684416953Z"><title>Cambio de Ropa a Marilú</title></path><path fill="rgb(247, 251, 255)" display="" d="M-330.61896051560615,108.60526206211217A348,348,0,0,1,-342.94642797635936,59.091010638300475L-229.8887436540106,39.94508712751854A233.33333333333334,233.33333333333334,0,0,0,-221.78199100027166,72.50650255252887Z"><title>En el Cole</title></path><path fill="rgb(181, 212, 233)" display="" d="M-343.280364629092,57.119097157760116A348,348,0,0,1,-347.94284614483246,6.306807166344183L-233.28880759696509,4.558145942229053A233.33333333333334,233.33333333333334,0,0,0,-230.2226803067432,37.973173646978324Z"><title>Salida del cole</title></path><path fill="rgb(247, 251, 255)" display="" d="M-347.9733456961137,4.307050621125075A348,348,0,0,1,-347.68014904395415,-14.916901849038137L-233.13276543804173,-9.672544838637549A233.33333333333334,233.33333333333334,0,0,0,-233.31930714824634,2.558389397010077Z"><title>Merienda con Mamá</title></path><path fill="rgb(181, 212, 233)" display="" d="M-347.58867876179187,-16.91479815522026A348,348,0,0,1,-343.28036462909193,-57.11909715776065L-230.22268030674314,-37.97317364697867A233.33333333333334,233.33333333333334,0,0,0,-233.0412951558795,-11.670441144819542Z"><title>Baño Marilú</title></path><path fill="rgb(8, 48, 107)" display="" d="M-342.9464279763593,-59.091010638301A348,348,0,0,1,-330.618960515606,-108.60526206211269L-221.78199100027155,-72.50650255252923A233.33333333333334,233.33333333333334,0,0,0,-229.88874365401054,-39.945087127518896Z"><title>Tiempo Marilú-Papá</title></path><path fill="rgb(227, 238, 249)" display="" d="M-329.9893382928053,-110.50355927786437A348,348,0,0,1,-323.3829901683561,-128.5590979657717L-216.94918477702453,-85.89234930439919A233.33333333333334,233.33333333333334,0,0,0,-221.1523687774709,-74.40479976828077Z"><title>Tablet</title></path><path fill="rgb(109, 174, 213)" display="" d="M-322.6388113240743,-130.4154800144078A348,348,0,0,1,-300.0997818915581,-176.19341902761087L-201.38295612839576,-117.85308407264141A233.33333333333334,233.33333333333334,0,0,0,-216.2050059327427,-87.74873135303517Z"><title>Cena en familia</title></path><path fill="rgb(247, 251, 255)" display="" d="M-299.0822297132476,-177.91520415566566A348,348,0,0,1,-276.42613397106436,-211.40622615668434L-185.54317745604058,-141.48559553523705A233.33333333333334,233.33333333333334,0,0,0,-200.36540395008535,-119.57486920069607Z"><title>Tele con Mamá</title></path><path fill="rgb(247, 251, 255)" display="" d="M-275.20660223452893,-212.99137561536568A348,348,0,0,1,-225.3551804956824,-265.17737954764993L-151.35114809296942,-177.5873712159299A233.33333333333334,233.33333333333334,0,0,0,-184.32364571950518,-143.07074499391828Z"><title>Dormir</title></path><path fill="rgb(227, 238, 249)" display="" d="M-223.82746551350147,-266.46813258212A348,348,0,0,1,-208.7697459521424,-278.422687967554L-140.24319835003104,-186.48402012236411A233.33333333333334,233.33333333333334,0,0,0,-149.8234331107884,-178.87812425040008Z"><title>Tarea</title></path><path fill="rgb(247, 251, 255)" display="" d="M-207.16618313734145,-279.6179045846412A348,348,0,0,1,-200.18181793871133,-284.6598668002791L-134.49092045364276,-190.67416385020908A233.33333333333334,233.33333333333334,0,0,0,-138.63963553522993,-187.67923673945145Z"><title>Cena con la Madre</title></path><path fill="rgb(147, 195, 223)" display="" d="M-198.54255143740164,-285.8056249774079A348,348,0,0,1,-182.45547685671508,-296.33426896832015L-122.61650841991874,-198.51860443634104A233.33333333333334,233.33333333333334,0,0,0,-132.8516539523329,-191.819922027338Z"><title>Merienda</title></path><path fill="rgb(247, 251, 255)" display="" d="M-180.74940947478777,-297.37795979950414A348,348,0,0,1,-173.33355341122044,-301.76063239236424L-116.50542024958295,-202.16560413906345A233.33333333333334,233.33333333333334,0,0,0,-120.91044103799132,-199.56229526752512Z"><title>Gimnasia artística</title></path><path fill="rgb(247, 251, 255)" display="" d="M-171.59645097555145,-302.75180926395A348,348,0,0,1,-164.05038941709736,-306.9062881925014L-110.28595492139436,-205.6245427752257A233.33333333333334,233.33333333333334,0,0,0,-114.76831781391378,-203.15678101064933Z"><title>Tiempo Marilú-Abuela</title></path><path fill="rgb(247, 251, 255)" display="" d="M-162.28386783726813,-307.84402907929865A348,348,0,0,1,-154.6146203775474,-311.76644971116906L-103.96389798570927,-208.8922027268167A233.33333333333334,233.33333333333334,0,0,0,-108.51943334156498,-206.56228366202308Z"><title>Cena con la Abuela</title></path><path fill="rgb(227, 238, 249)" display="" d="M-152.8203229297909,-312.6498822958909A348,348,0,0,1,-145.03502375398364,-316.3365958669363L-97.54513042695744,-211.96554430952287A233.33333333333334,233.33333333333334,0,0,0,-102.1696005379526,-209.77563531153862Z"><title>Llevar a Marilú a Casa</title></path><path fill="rgb(227, 238, 249)" display="" d="M-143.21461955255495,-317.16489835165703A348,348,0,0,1,-135.32051080094877,-320.61247536016174L-91.03562319295786,-214.84170860034195A233.33333333333334,233.33333333333334,0,0,0,-95.72472622552857,-212.79384679424368Z"><title>Tablet + TV</title></path><path fill="rgb(147, 195, 223)" display="" d="M-133.4756932454603,-321.3848772307804A348,348,0,0,1,-74.71396581412887,-339.8850148393206L-50.4173395147026,-227.82128153599623A233.33333333333334,233.33333333333334,0,0,0,-89.1908056374692,-215.6141104709607Z"><title>Tablet + Tv</title></path><path fill="rgb(207, 225, 242)" display="" d="M-72.75938848747487,-340.30878828929576A348,348,0,0,1,-53.85425464427781,-343.80767771634953L-36.43467123686991,-230.4711677765912A233.33333333333334,233.33333333333334,0,0,0,-48.46276218804841,-228.2450549859714Z"><title>Almuerzo</title></path><path fill="rgb(75, 151, 201)" display="" d="M-51.877477982637025,-344.1115041351582A348,348,0,0,1,-22.21350941697082,-347.2903108342963L-15.222930844349452,-232.83622317189523A233.33333333333334,233.33333333333334,0,0,0,-34.45789457522895,-230.7749941953999Z"><title>Tiempo en familia</title></path><path fill="rgb(227, 238, 249)" display="" d="M-20.217240346741985,-347.41223811599104A348,348,0,0,1,-11.612152989925162,-347.8062073956395L-8.115237230827193,-233.19216832717998A233.33333333333334,233.33333333333334,0,0,0,-13.226661774120435,-232.95815045358998Z"><title>Votar en familia</title></path><path fill="rgb(247, 251, 255)" display="" d="M-9.613094101952147,-347.86719940486915A348,348,0,0,1,-0.9999945578319781,-347.99856323106326L-0.9999945578320457,-233.33119048967447A233.33333333333334,233.33333333333334,0,0,0,-6.116178342854002,-233.2531603364097Z"><title>Tiempo Marilú-Mamá</title></path></g><g id="labels" transform="translate(640,360)" text-anchor="middle"><text transform="rotate(90) translate(58.333333333333336,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"/></text><text transform="rotate(19.22330097087378) translate(175,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Julián</tspan></text><text transform="rotate(199.22330097087377) translate(175,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Marilú</tspan></text><text transform="rotate(-83.88349514563107) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Despertar</tspan></text><text transform="rotate(-72.52427184466019) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Desayuno</tspan></text><text transform="rotate(-62.03883495145631) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Aseo personal</tspan></text><text transform="rotate(-52.42718446601942) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Cambio de Ropa a Marilú</tspan></text><text transform="rotate(-43.689320388349515) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Ir al Cole</tspan></text><text transform="rotate(-35.8252427184466) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Gym + Aseo personal</tspan></text><text transform="rotate(-13.980582524271853) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Trabajo</tspan></text><text transform="rotate(13.106796116504853) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Break del trabajo</tspan></text><text transform="rotate(26.21359223300969) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Almuerzo en solitario</tspan></text><text transform="rotate(34.9514563106796) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tiempo Marilú-Papá</tspan></text><text transform="rotate(42.81553398058253) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Preparar cena</tspan></text><text transform="rotate(50.67961165048544) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Cena en familia</tspan></text><text transform="rotate(56.79611650485438) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Estudio</tspan></text><text transform="rotate(64.6601941747573) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Ocio</tspan></text><text transform="rotate(76.89320388349518) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Dormir</tspan></text><text transform="rotate(84.75728155339809) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Diplomatura</tspan></text><text transform="rotate(88.25242718446603) translate(291.6666666666667,0) rotate(0)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Cena en soledad</tspan></text><text transform="rotate(92.62135922330097) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Salida del cole</tspan></text><text transform="rotate(96.11650485436894) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Merienda</tspan></text><text transform="rotate(98.73786407766988) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Baño Marilú</tspan></text><text transform="rotate(101.35922330097088) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Llevar a Marilú a Casa</tspan></text><text transform="rotate(103.98058252427182) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Compras en el Super</tspan></text><text transform="rotate(107.47572815533977) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Preparo el desayuno a Marilú</tspan></text><text transform="rotate(110.97087378640774) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Preparar almuerzo</tspan></text><text transform="rotate(114.46601941747565) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Almuerzo</tspan></text><text transform="rotate(118.83495145631062) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tiempo en familia</tspan></text><text transform="rotate(122.33009708737859) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Cena Delivery</tspan></text><text transform="rotate(124.07766990291256) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Ocio + Varios</tspan></text><text transform="rotate(125.82524271844653) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Votar en familia</tspan></text><text transform="rotate(127.57281553398053) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Siesta</tspan></text><text transform="rotate(134.5631067961165) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Despertar</tspan></text><text transform="rotate(146.79611650485438) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Desayuno</tspan></text><text transform="rotate(157.28155339805826) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Cambio de Ropa a Marilú</tspan></text><text transform="rotate(166.01941747572823) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">En el Cole</tspan></text><text transform="rotate(174.75728155339812) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Salida del cole</tspan></text><text transform="rotate(180.87378640776706) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Merienda con Mamá</tspan></text><text transform="rotate(186.116504854369) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Baño Marilú</tspan></text><text transform="rotate(193.98058252427188) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tiempo Marilú-Papá</tspan></text><text transform="rotate(200.09708737864082) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tablet</tspan></text><text transform="rotate(206.21359223300976) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Cena en familia</tspan></text><text transform="rotate(214.0776699029127) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tele con Mamá</tspan></text><text transform="rotate(223.68932038834959) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Dormir</tspan></text><text transform="rotate(231.55339805825253) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tarea</tspan></text><text transform="rotate(234.17475728155347) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Cena con la Madre</tspan></text><text transform="rotate(236.7961165048544) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Merienda</tspan></text><text transform="rotate(239.41747572815535) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Gimnasia artística</tspan></text><text transform="rotate(241.16504854368935) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tiempo Marilú-Abuela</tspan></text><text transform="rotate(242.91262135922335) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Cena con la Abuela</tspan></text><text transform="rotate(244.66019417475735) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Llevar a Marilú a Casa</tspan></text><text transform="rotate(246.40776699029124) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tablet + TV</tspan></text><text transform="rotate(252.52427184466023) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tablet + Tv</tspan></text><text transform="rotate(259.5145631067962) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Almuerzo</tspan></text><text transform="rotate(263.8834951456311) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tiempo en familia</tspan></text><text transform="rotate(267.378640776699) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Votar en familia</tspan></text><text transform="rotate(269.126213592233) translate(291.6666666666667,0) rotate(180)"><tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;">Tiempo Marilú-Mamá</tspan></text></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1280"
+   height="720"
+   version="1.1"
+   id="svg1031"
+   sodipodi:docname="Sunburst.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1035" />
+  <sodipodi:namedview
+     id="namedview1033"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.8859375"
+     inkscape:cx="639.43563"
+     inkscape:cy="359.50617"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1031" />
+  <rect
+     width="1280"
+     height="720"
+     x="0"
+     y="0"
+     fill="#e6b2b2"
+     id="backgorund"
+     style="fill:#000000" />
+  <g
+     transform="translate(640,360)"
+     id="viz">
+    <path
+       fill="#cccccc"
+       display=""
+       d="M0.999994557832053,-231.33117196347627A231.33333333333334,231.33333333333334,0,1,1,-143.05506847381687,181.797575602819L-71.75573451494493,91.99035642572461A116.66666666666667,116.66666666666667,0,1,0,0.9999945578320119,-116.6623809203096Z"
+       id="path571"
+       style="fill:#dde9af">
+      <title
+         id="title569">Julián</title>
+    </path>
+    <path
+       fill="#cccccc"
+       display=""
+       d="M-144.62143591545694,180.5540123754177A231.33333333333334,231.33333333333334,0,0,1,-0.9999945578320812,-231.33117196347627L-0.9999945578320004,-116.6623809203096A116.66666666666667,116.66666666666667,0,0,0,-73.32210195658502,90.74679319832335Z"
+       id="path575"
+       style="fill:#ffd5d5">
+      <title
+         id="title573">Marilú</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M0.9999945578320129,-347.99856323106326A348,348,0,0,1,72.75938848747496,-340.3087882892957L48.462762188048536,-228.2450549859714A233.33333333333334,233.33333333333334,0,0,0,0.9999945578320172,-233.33119048967447Z"
+       id="path579">
+      <title
+         id="title577">Despertar</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M74.71396581412914,-339.88501483932055A348,348,0,0,1,133.47569324546032,-321.3848772307804L89.19080563746925,-215.61411047096067A233.33333333333334,233.33333333333334,0,0,0,50.41733951470272,-227.8212815359962Z"
+       id="path583">
+      <title
+         id="title581">Desayuno</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M135.32051080094894,-320.6124753601616A348,348,0,0,1,189.7342289531917,-291.72747961674406L126.94008940959986,-195.78217014101986A233.33333333333334,233.33333333333334,0,0,0,91.03562319295791,-214.84170860034192Z"
+       id="path587">
+      <title
+         id="title585">Aseo personal</title>
+    </path>
+    <path
+       fill="rgb(109, 174, 213)"
+       display=""
+       d="M191.4076742416195,-290.6322457013572A348,348,0,0,1,231.84961731914368,-259.5183133209805L155.208845568639,-174.22588413233788A233.33333333333334,233.33333333333334,0,0,0,128.6135346980276,-194.68693622563302Z"
+       id="path591">
+      <title
+         id="title589">Cambio de Ropa a Marilú</title>
+    </path>
+    <path
+       fill="rgb(109, 174, 213)"
+       display=""
+       d="M233.3372587113517,-258.1815711801904A348,348,0,0,1,268.5831778140029,-221.28505732500716L179.87480392891518,-148.62536578921774A233.33333333333334,233.33333333333334,0,0,0,156.69648696084693,-172.8891419915478Z"
+       id="path595">
+      <title
+         id="title593">Ir al Cole</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M269.8504833146428,-219.73783619316384A348,348,0,0,1,293.51738925551183,-186.9533155753819L196.625635111152,-125.62963050801571A233.33333333333334,233.33333333333334,0,0,0,181.142109429555,-147.07814465737442Z"
+       id="path599">
+      <title
+         id="title597">Gym + Aseo personal</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M294.5869760066076,-185.26336272259127A348,348,0,0,1,347.06352892948274,25.512876886272373L232.72935599356003,16.77770256224758A233.33333333333334,233.33333333333334,0,0,0,197.6952218622477,-123.93967765522511Z"
+       id="path603">
+      <title
+         id="title601">Trabajo</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M346.911173005092,27.507054444835713A348,348,0,0,1,323.38299016835623,128.55909796577143L216.9491847770246,85.89234930439896A233.33333333333334,233.33333333333334,0,0,0,232.57700006916926,18.771880120810913Z"
+       id="path607">
+      <title
+         id="title605">Break del trabajo</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M322.6388113240744,130.41548001440742A348,348,0,0,1,300.0997818915583,176.19341902761053L201.3829561283959,117.85308407264114A233.33333333333334,233.33333333333334,0,0,0,216.20500593274278,87.74873135303496Z"
+       id="path611">
+      <title
+         id="title609">Almuerzo en solitario</title>
+    </path>
+    <path
+       fill="rgb(8, 48, 107)"
+       display=""
+       d="M299.08222971324784,177.91520415566526A348,348,0,0,1,269.8504833146428,219.73783619316384L181.142109429555,147.07814465737442A233.33333333333334,233.33333333333334,0,0,0,200.3654039500855,119.5748692006958Z"
+       id="path615">
+      <title
+         id="title613">Tiempo Marilú-Papá</title>
+    </path>
+    <path
+       fill="rgb(147, 195, 223)"
+       display=""
+       d="M268.5831778140029,221.28505732500716A348,348,0,0,1,241.1022789664028,250.94559385892174L161.8960616242267,168.03008562459596A233.33333333333334,233.33333333333334,0,0,0,179.87480392891518,148.62536578921774Z"
+       id="path619">
+      <title
+         id="title617">Preparar cena</title>
+    </path>
+    <path
+       fill="rgb(109, 174, 213)"
+       display=""
+       d="M239.65609501691605,252.32708162470968A348,348,0,0,1,200.18181793871165,284.6598668002789L134.4909204536429,190.674163850209A233.33333333333334,233.33333333333334,0,0,0,160.44987767474,169.41157339038384Z"
+       id="path623">
+      <title
+         id="title621">Cena en familia</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M198.54255143740176,285.80562497740783A348,348,0,0,1,182.45547685671534,296.33426896832L122.6165084199189,198.51860443634095A233.33333333333334,233.33333333333334,0,0,0,132.85165395233304,191.81992202733792Z"
+       id="path627">
+      <title
+         id="title625">Estudio</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M180.74940947478794,297.377959799504A348,348,0,0,1,115.52300003629078,328.2658015429191L77.76868990268954,219.9919892070249A233.33333333333334,233.33333333333334,0,0,0,120.91044103799148,199.562295267525Z"
+       id="path631">
+      <title
+         id="title629">Ocio</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M113.63452521554456,328.9242993137445A348,348,0,0,1,43.34438856209056,345.29011567112445L29.389236828280517,231.47508981118398A233.33333333333334,233.33333333333334,0,0,0,75.8802150819433,220.65048697785028Z"
+       id="path635">
+      <title
+         id="title633">Dormir</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M41.35926578935318,345.53351665701786A348,348,0,0,1,22.213509416970858,347.2903108342963L15.222930844349424,232.83622317189523A233.33333333333334,233.33333333333334,0,0,0,27.404114055543122,231.71849079707735Z"
+       id="path639">
+      <title
+         id="title637">Diplomatura</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M20.217240346741864,347.4122381159911A348,348,0,0,1,0.9999945578320129,347.99856323106326L0.9999945578320172,233.33119048967447A233.33333333333334,233.33333333333334,0,0,0,13.226661774120407,232.95815045358998Z"
+       id="path643">
+      <title
+         id="title641">Cena en soledad</title>
+    </path>
+    <path
+       fill="rgb(181, 212, 233)"
+       display=""
+       d="M-0.9999945578319701,347.99856323106326A348,348,0,0,1,-30.802579852379996,346.6341025843212L-20.324841331387848,232.4464352690709A233.33333333333334,233.33333333333334,0,0,0,-0.9999945578319887,233.33119048967447Z"
+       id="path647">
+      <title
+         id="title645">Salida del cole</title>
+    </path>
+    <path
+       fill="rgb(207, 225, 242)"
+       display=""
+       d="M-32.79420210999129,346.4513534509124A348,348,0,0,1,-41.35926578935329,345.53351665701786L-27.404114055543197,231.71849079707735A233.33333333333334,233.33333333333334,0,0,0,-22.316463588999166,232.26368613566203Z"
+       id="path651">
+      <title
+         id="title649">Merienda</title>
+    </path>
+    <path
+       fill="rgb(207, 225, 242)"
+       display=""
+       d="M-43.344388562090664,345.29011567112445A348,348,0,0,1,-62.34743204674285,342.3693878213658L-41.479621232771265,229.61682313547993A233.33333333333334,233.33333333333334,0,0,0,-29.389236828280595,231.47508981118398Z"
+       id="path655">
+      <title
+         id="title653">Baño Marilú</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M-64.31402373489074,342.0054185989279A348,348,0,0,1,-72.75938848747485,340.30878828929576L-48.46276218804846,228.2450549859714A233.33333333333334,233.33333333333334,0,0,0,-43.44621292091917,229.25285391304206Z"
+       id="path659">
+      <title
+         id="title657">Llevar a Marilú a Casa</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-74.71396581412903,339.88501483932055A348,348,0,0,1,-93.37062928828722,335.24010139944363L-62.287345142483865,224.86602918081144A233.33333333333334,233.33333333333334,0,0,0,-50.41733951470264,227.82128153599623Z"
+       id="path663">
+      <title
+         id="title661">Compras en el Super</title>
+    </path>
+    <path
+       fill="rgb(207, 225, 242)"
+       display=""
+       d="M-95.2957361239224,334.6979573833694A348,348,0,0,1,-113.63452521554439,328.92429931374454L-75.88021508194319,220.6504869778503A233.33333333333334,233.33333333333334,0,0,0,-64.21245197811906,224.3238851647372Z"
+       id="path667">
+      <title
+         id="title665">Preparo el desayuno a Marilú</title>
+    </path>
+    <path
+       fill="rgb(207, 225, 242)"
+       display=""
+       d="M-115.52300003629058,328.2658015429192A348,348,0,0,1,-133.47569324545998,321.3848772307805L-89.19080563746904,215.61411047096075A233.33333333333334,233.33333333333334,0,0,0,-77.76868990268942,219.99198920702494Z"
+       id="path671">
+      <title
+         id="title669">Preparar almuerzo</title>
+    </path>
+    <path
+       fill="rgb(207, 225, 242)"
+       display=""
+       d="M-135.32051080094863,320.6124753601618A348,348,0,0,1,-152.82032292979054,312.6498822958911L-102.16960053795246,209.77563531153868A233.33333333333334,233.33333333333334,0,0,0,-91.0356231929577,214.841708600342Z"
+       id="path675">
+      <title
+         id="title673">Almuerzo</title>
+    </path>
+    <path
+       fill="rgb(75, 151, 201)"
+       display=""
+       d="M-154.6146203775473,311.7664497111691A348,348,0,0,1,-180.74940947478757,297.37795979950425L-120.91044103799126,199.56229526752514A233.33333333333334,233.33333333333334,0,0,0,-103.96389798570912,208.89220272681678Z"
+       id="path679">
+      <title
+         id="title677">Tiempo en familia</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M-182.4554768567151,296.33426896832015A348,348,0,0,1,-189.7342289531914,291.7274796167443L-126.94008940959968,195.78217014101998A233.33333333333334,233.33333333333334,0,0,0,-122.6165084199187,198.51860443634106Z"
+       id="path683">
+      <title
+         id="title681">Cena Delivery</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-191.40767424161922,290.6322457013574A348,348,0,0,1,-198.5425514374014,285.80562497740806L-132.85165395233284,191.81992202733807A233.33333333333334,233.33333333333334,0,0,0,-128.61353469802742,194.68693622563316Z"
+       id="path687">
+      <title
+         id="title685">Ocio + Varios</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M-200.18181793871142,284.659866800279A348,348,0,0,1,-207.16618313734125,279.61790458464134L-138.63963553522987,187.67923673945148A233.33333333333334,233.33333333333334,0,0,0,-134.4909204536427,190.6741638502091Z"
+       id="path691">
+      <title
+         id="title689">Votar en familia</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-208.76974595214244,278.42268796755394A348,348,0,0,1,-215.59710206835123,273.17007445862174L-144.2986499882469,183.36396607843608A233.33333333333334,233.33333333333334,0,0,0,-140.24319835003098,186.48402012236417Z"
+       id="path695">
+      <title
+         id="title693">Siesta</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-217.1634695099916,271.9265112312202A348,348,0,0,1,-268.58317781400285,221.28505732500722L-179.87480392891516,148.62536578921777A233.33333333333334,233.33333333333334,0,0,0,-145.8650174298871,182.12040285103473Z"
+       id="path699">
+      <title
+         id="title697">Despertar</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-269.8504833146428,219.73783619316384A348,348,0,0,1,-309.3723445795499,159.3510351687501L-207.28247677113407,107.13738501600974A233.33333333333334,233.33333333333334,0,0,0,-181.142109429555,147.07814465737445Z"
+       id="path703">
+      <title
+         id="title701">Desayuno</title>
+    </path>
+    <path
+       fill="rgb(109, 174, 213)"
+       display=""
+       d="M-310.28303721598184,157.57041859443552A348,348,0,0,1,-329.9893382928055,110.50355927786387L-221.15236877747105,74.40479976828044A233.33333333333334,233.33333333333334,0,0,0,-208.19316940756593,105.3567684416953Z"
+       id="path707">
+      <title
+         id="title705">Cambio de Ropa a Marilú</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-330.61896051560615,108.60526206211217A348,348,0,0,1,-342.94642797635936,59.091010638300475L-229.8887436540106,39.94508712751854A233.33333333333334,233.33333333333334,0,0,0,-221.78199100027166,72.50650255252887Z"
+       id="path711">
+      <title
+         id="title709">En el Cole</title>
+    </path>
+    <path
+       fill="rgb(181, 212, 233)"
+       display=""
+       d="M-343.280364629092,57.119097157760116A348,348,0,0,1,-347.94284614483246,6.306807166344183L-233.28880759696509,4.558145942229053A233.33333333333334,233.33333333333334,0,0,0,-230.2226803067432,37.973173646978324Z"
+       id="path715">
+      <title
+         id="title713">Salida del cole</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-347.9733456961137,4.307050621125075A348,348,0,0,1,-347.68014904395415,-14.916901849038137L-233.13276543804173,-9.672544838637549A233.33333333333334,233.33333333333334,0,0,0,-233.31930714824634,2.558389397010077Z"
+       id="path719">
+      <title
+         id="title717">Merienda con Mamá</title>
+    </path>
+    <path
+       fill="rgb(181, 212, 233)"
+       display=""
+       d="M-347.58867876179187,-16.91479815522026A348,348,0,0,1,-343.28036462909193,-57.11909715776065L-230.22268030674314,-37.97317364697867A233.33333333333334,233.33333333333334,0,0,0,-233.0412951558795,-11.670441144819542Z"
+       id="path723">
+      <title
+         id="title721">Baño Marilú</title>
+    </path>
+    <path
+       fill="rgb(8, 48, 107)"
+       display=""
+       d="M-342.9464279763593,-59.091010638301A348,348,0,0,1,-330.618960515606,-108.60526206211269L-221.78199100027155,-72.50650255252923A233.33333333333334,233.33333333333334,0,0,0,-229.88874365401054,-39.945087127518896Z"
+       id="path727">
+      <title
+         id="title725">Tiempo Marilú-Papá</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M-329.9893382928053,-110.50355927786437A348,348,0,0,1,-323.3829901683561,-128.5590979657717L-216.94918477702453,-85.89234930439919A233.33333333333334,233.33333333333334,0,0,0,-221.1523687774709,-74.40479976828077Z"
+       id="path731">
+      <title
+         id="title729">Tablet</title>
+    </path>
+    <path
+       fill="rgb(109, 174, 213)"
+       display=""
+       d="M-322.6388113240743,-130.4154800144078A348,348,0,0,1,-300.0997818915581,-176.19341902761087L-201.38295612839576,-117.85308407264141A233.33333333333334,233.33333333333334,0,0,0,-216.2050059327427,-87.74873135303517Z"
+       id="path735">
+      <title
+         id="title733">Cena en familia</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-299.0822297132476,-177.91520415566566A348,348,0,0,1,-276.42613397106436,-211.40622615668434L-185.54317745604058,-141.48559553523705A233.33333333333334,233.33333333333334,0,0,0,-200.36540395008535,-119.57486920069607Z"
+       id="path739">
+      <title
+         id="title737">Tele con Mamá</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-275.20660223452893,-212.99137561536568A348,348,0,0,1,-225.3551804956824,-265.17737954764993L-151.35114809296942,-177.5873712159299A233.33333333333334,233.33333333333334,0,0,0,-184.32364571950518,-143.07074499391828Z"
+       id="path743">
+      <title
+         id="title741">Dormir</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M-223.82746551350147,-266.46813258212A348,348,0,0,1,-208.7697459521424,-278.422687967554L-140.24319835003104,-186.48402012236411A233.33333333333334,233.33333333333334,0,0,0,-149.8234331107884,-178.87812425040008Z"
+       id="path747">
+      <title
+         id="title745">Tarea</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-207.16618313734145,-279.6179045846412A348,348,0,0,1,-200.18181793871133,-284.6598668002791L-134.49092045364276,-190.67416385020908A233.33333333333334,233.33333333333334,0,0,0,-138.63963553522993,-187.67923673945145Z"
+       id="path751">
+      <title
+         id="title749">Cena con la Madre</title>
+    </path>
+    <path
+       fill="rgb(147, 195, 223)"
+       display=""
+       d="M-198.54255143740164,-285.8056249774079A348,348,0,0,1,-182.45547685671508,-296.33426896832015L-122.61650841991874,-198.51860443634104A233.33333333333334,233.33333333333334,0,0,0,-132.8516539523329,-191.819922027338Z"
+       id="path755">
+      <title
+         id="title753">Merienda</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-180.74940947478777,-297.37795979950414A348,348,0,0,1,-173.33355341122044,-301.76063239236424L-116.50542024958295,-202.16560413906345A233.33333333333334,233.33333333333334,0,0,0,-120.91044103799132,-199.56229526752512Z"
+       id="path759">
+      <title
+         id="title757">Gimnasia artística</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-171.59645097555145,-302.75180926395A348,348,0,0,1,-164.05038941709736,-306.9062881925014L-110.28595492139436,-205.6245427752257A233.33333333333334,233.33333333333334,0,0,0,-114.76831781391378,-203.15678101064933Z"
+       id="path763">
+      <title
+         id="title761">Tiempo Marilú-Abuela</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-162.28386783726813,-307.84402907929865A348,348,0,0,1,-154.6146203775474,-311.76644971116906L-103.96389798570927,-208.8922027268167A233.33333333333334,233.33333333333334,0,0,0,-108.51943334156498,-206.56228366202308Z"
+       id="path767">
+      <title
+         id="title765">Cena con la Abuela</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M-152.8203229297909,-312.6498822958909A348,348,0,0,1,-145.03502375398364,-316.3365958669363L-97.54513042695744,-211.96554430952287A233.33333333333334,233.33333333333334,0,0,0,-102.1696005379526,-209.77563531153862Z"
+       id="path771">
+      <title
+         id="title769">Llevar a Marilú a Casa</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M-143.21461955255495,-317.16489835165703A348,348,0,0,1,-135.32051080094877,-320.61247536016174L-91.03562319295786,-214.84170860034195A233.33333333333334,233.33333333333334,0,0,0,-95.72472622552857,-212.79384679424368Z"
+       id="path775">
+      <title
+         id="title773">Tablet + TV</title>
+    </path>
+    <path
+       fill="rgb(147, 195, 223)"
+       display=""
+       d="M-133.4756932454603,-321.3848772307804A348,348,0,0,1,-74.71396581412887,-339.8850148393206L-50.4173395147026,-227.82128153599623A233.33333333333334,233.33333333333334,0,0,0,-89.1908056374692,-215.6141104709607Z"
+       id="path779">
+      <title
+         id="title777">Tablet + Tv</title>
+    </path>
+    <path
+       fill="rgb(207, 225, 242)"
+       display=""
+       d="M-72.75938848747487,-340.30878828929576A348,348,0,0,1,-53.85425464427781,-343.80767771634953L-36.43467123686991,-230.4711677765912A233.33333333333334,233.33333333333334,0,0,0,-48.46276218804841,-228.2450549859714Z"
+       id="path783">
+      <title
+         id="title781">Almuerzo</title>
+    </path>
+    <path
+       fill="rgb(75, 151, 201)"
+       display=""
+       d="M-51.877477982637025,-344.1115041351582A348,348,0,0,1,-22.21350941697082,-347.2903108342963L-15.222930844349452,-232.83622317189523A233.33333333333334,233.33333333333334,0,0,0,-34.45789457522895,-230.7749941953999Z"
+       id="path787">
+      <title
+         id="title785">Tiempo en familia</title>
+    </path>
+    <path
+       fill="rgb(227, 238, 249)"
+       display=""
+       d="M-20.217240346741985,-347.41223811599104A348,348,0,0,1,-11.612152989925162,-347.8062073956395L-8.115237230827193,-233.19216832717998A233.33333333333334,233.33333333333334,0,0,0,-13.226661774120435,-232.95815045358998Z"
+       id="path791">
+      <title
+         id="title789">Votar en familia</title>
+    </path>
+    <path
+       fill="rgb(247, 251, 255)"
+       display=""
+       d="M-9.613094101952147,-347.86719940486915A348,348,0,0,1,-0.9999945578319781,-347.99856323106326L-0.9999945578320457,-233.33119048967447A233.33333333333334,233.33333333333334,0,0,0,-6.116178342854002,-233.2531603364097Z"
+       id="path795">
+      <title
+         id="title793">Tiempo Marilú-Mamá</title>
+    </path>
+  </g>
+  <g
+     id="labels"
+     transform="translate(640,360)"
+     text-anchor="middle">
+    <text
+       transform="rotate(90) translate(58.333333333333336,0) rotate(180)"
+       id="text800"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan798" /></text>
+    <text
+       transform="rotate(19.22330097087378) translate(175,0) rotate(0)"
+       id="text804"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan802">Julián</tspan></text>
+    <text
+       transform="rotate(199.22330097087377) translate(175,0) rotate(180)"
+       id="text808"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan806">Marilú</tspan></text>
+    <text
+       transform="rotate(-83.88349514563107) translate(291.6666666666667,0) rotate(0)"
+       id="text812"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan810">Despertar</tspan></text>
+    <text
+       transform="rotate(-72.52427184466019) translate(291.6666666666667,0) rotate(0)"
+       id="text816"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan814">Desayuno</tspan></text>
+    <text
+       transform="rotate(-62.03883495145631) translate(291.6666666666667,0) rotate(0)"
+       id="text820"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan818">Aseo personal</tspan></text>
+    <text
+       transform="rotate(-52.42718446601942) translate(291.6666666666667,0) rotate(0)"
+       id="text824"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan822">Cambio de Ropa a Marilú</tspan></text>
+    <text
+       transform="rotate(-43.689320388349515) translate(291.6666666666667,0) rotate(0)"
+       id="text828"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan826">Ir al Cole</tspan></text>
+    <text
+       transform="rotate(-35.8252427184466) translate(291.6666666666667,0) rotate(0)"
+       id="text832"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan830">Gym + Aseo personal</tspan></text>
+    <text
+       transform="rotate(-13.980582524271853) translate(291.6666666666667,0) rotate(0)"
+       id="text836"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan834">Trabajo</tspan></text>
+    <text
+       transform="rotate(13.106796116504853) translate(291.6666666666667,0) rotate(0)"
+       id="text840"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan838">Break del trabajo</tspan></text>
+    <text
+       transform="rotate(26.21359223300969) translate(291.6666666666667,0) rotate(0)"
+       id="text844"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan842">Almuerzo en solitario</tspan></text>
+    <text
+       transform="rotate(34.951456,-145.83333,463.20837)"
+       id="text848"><tspan
+         x="0"
+         y="4"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#ffffff"
+         id="tspan846">Tiempo Marilú-Papá</tspan></text>
+    <text
+       transform="rotate(42.81553398058253) translate(291.6666666666667,0) rotate(0)"
+       id="text852"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan850">Preparar cena</tspan></text>
+    <text
+       transform="rotate(50.67961165048544) translate(291.6666666666667,0) rotate(0)"
+       id="text856"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan854">Cena en familia</tspan></text>
+    <text
+       transform="rotate(56.79611650485438) translate(291.6666666666667,0) rotate(0)"
+       id="text860"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan858">Estudio</tspan></text>
+    <text
+       transform="rotate(64.6601941747573) translate(291.6666666666667,0) rotate(0)"
+       id="text864"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan862">Ocio</tspan></text>
+    <text
+       transform="rotate(76.89320388349518) translate(291.6666666666667,0) rotate(0)"
+       id="text868"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan866">Dormir</tspan></text>
+    <text
+       transform="rotate(84.75728155339809) translate(291.6666666666667,0) rotate(0)"
+       id="text872"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan870">Diplomatura</tspan></text>
+    <text
+       transform="rotate(88.25242718446603) translate(291.6666666666667,0) rotate(0)"
+       id="text876"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan874">Cena en soledad</tspan></text>
+    <text
+       transform="rotate(92.62135922330097) translate(291.6666666666667,0) rotate(180)"
+       id="text880"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan878">Salida del cole</tspan></text>
+    <text
+       transform="rotate(96.11650485436894) translate(291.6666666666667,0) rotate(180)"
+       id="text884"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan882">Merienda</tspan></text>
+    <text
+       transform="rotate(98.73786407766988) translate(291.6666666666667,0) rotate(180)"
+       id="text888"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan886">Baño Marilú</tspan></text>
+    <text
+       transform="rotate(101.35922330097088) translate(291.6666666666667,0) rotate(180)"
+       id="text892"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan890">Llevar a Marilú a Casa</tspan></text>
+    <text
+       transform="rotate(103.98058252427182) translate(291.6666666666667,0) rotate(180)"
+       id="text896"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan894">Compras en el Super</tspan></text>
+    <text
+       transform="rotate(107.47572815533977) translate(291.6666666666667,0) rotate(180)"
+       id="text900"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan898">Preparo el desayuno a Marilú</tspan></text>
+    <text
+       transform="rotate(110.97087378640774) translate(291.6666666666667,0) rotate(180)"
+       id="text904"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan902">Preparar almuerzo</tspan></text>
+    <text
+       transform="rotate(114.46601941747565) translate(291.6666666666667,0) rotate(180)"
+       id="text908"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan906">Almuerzo</tspan></text>
+    <text
+       transform="rotate(-61.165049,145.83333,246.76245)"
+       id="text912"><tspan
+         x="0"
+         y="4"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#ffffff"
+         id="tspan910">Tiempo en familia</tspan></text>
+    <text
+       transform="rotate(122.33009708737859) translate(291.6666666666667,0) rotate(180)"
+       id="text916"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan914">Cena Delivery</tspan></text>
+    <text
+       transform="rotate(124.07766990291256) translate(291.6666666666667,0) rotate(180)"
+       id="text920"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan918">Ocio + Varios</tspan></text>
+    <text
+       transform="rotate(125.82524271844653) translate(291.6666666666667,0) rotate(180)"
+       id="text924"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan922">Votar en familia</tspan></text>
+    <text
+       transform="rotate(127.57281553398053) translate(291.6666666666667,0) rotate(180)"
+       id="text928"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan926">Siesta</tspan></text>
+    <text
+       transform="rotate(134.5631067961165) translate(291.6666666666667,0) rotate(180)"
+       id="text932"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan930">Despertar</tspan></text>
+    <text
+       transform="rotate(146.79611650485438) translate(291.6666666666667,0) rotate(180)"
+       id="text936"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan934">Desayuno</tspan></text>
+    <text
+       transform="rotate(157.28155339805826) translate(291.6666666666667,0) rotate(180)"
+       id="text940"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan938">Cambio de Ropa a Marilú</tspan></text>
+    <text
+       transform="rotate(166.01941747572823) translate(291.6666666666667,0) rotate(180)"
+       id="text944"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan942">En el Cole</tspan></text>
+    <text
+       transform="rotate(174.75728155339812) translate(291.6666666666667,0) rotate(180)"
+       id="text948"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan946">Salida del cole</tspan></text>
+    <text
+       transform="rotate(180.87378640776706) translate(291.6666666666667,0) rotate(180)"
+       id="text952"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan950">Merienda con Mamá</tspan></text>
+    <text
+       transform="rotate(186.116504854369) translate(291.6666666666667,0) rotate(180)"
+       id="text956"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan954">Baño Marilú</tspan></text>
+    <text
+       transform="rotate(13.980583,145.83333,-1189.3833)"
+       id="text960"><tspan
+         x="0"
+         y="4"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#ffffff"
+         id="tspan958">Tiempo Marilú-Papá</tspan></text>
+    <text
+       transform="rotate(200.09708737864082) translate(291.6666666666667,0) rotate(180)"
+       id="text964"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan962">Tablet</tspan></text>
+    <text
+       transform="rotate(206.21359223300976) translate(291.6666666666667,0) rotate(180)"
+       id="text968"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan966">Cena en familia</tspan></text>
+    <text
+       transform="rotate(214.0776699029127) translate(291.6666666666667,0) rotate(180)"
+       id="text972"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan970">Tele con Mamá</tspan></text>
+    <text
+       transform="rotate(223.68932038834959) translate(291.6666666666667,0) rotate(180)"
+       id="text976"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan974">Dormir</tspan></text>
+    <text
+       transform="rotate(231.55339805825253) translate(291.6666666666667,0) rotate(180)"
+       id="text980"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan978">Tarea</tspan></text>
+    <text
+       transform="rotate(234.17475728155347) translate(291.6666666666667,0) rotate(180)"
+       id="text984"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan982">Cena con la Madre</tspan></text>
+    <text
+       transform="rotate(236.7961165048544) translate(291.6666666666667,0) rotate(180)"
+       id="text988"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan986">Merienda</tspan></text>
+    <text
+       transform="rotate(239.41747572815535) translate(291.6666666666667,0) rotate(180)"
+       id="text992"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan990">Gimnasia artística</tspan></text>
+    <text
+       transform="rotate(241.16504854368935) translate(291.6666666666667,0) rotate(180)"
+       id="text996"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan994">Tiempo Marilú-Abuela</tspan></text>
+    <text
+       transform="rotate(242.91262135922335) translate(291.6666666666667,0) rotate(180)"
+       id="text1000"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan998">Cena con la Abuela</tspan></text>
+    <text
+       transform="rotate(244.66019417475735) translate(291.6666666666667,0) rotate(180)"
+       id="text1004"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan1002">Llevar a Marilú a Casa</tspan></text>
+    <text
+       transform="rotate(246.40776699029124) translate(291.6666666666667,0) rotate(180)"
+       id="text1008"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan1006">Tablet + TV</tspan></text>
+    <text
+       transform="rotate(252.52427184466023) translate(291.6666666666667,0) rotate(180)"
+       id="text1012"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan1010">Tablet + Tv</tspan></text>
+    <text
+       transform="rotate(259.5145631067962) translate(291.6666666666667,0) rotate(180)"
+       id="text1016"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan1014">Almuerzo</tspan></text>
+    <text
+       transform="rotate(83.883495,145.83333,-162.29585)"
+       id="text1020"><tspan
+         x="0"
+         y="4"
+         style="font-style:italic;font-weight:normal;font-size:10px;font-family:Arial, sans-serif;fill:#ffffff"
+         id="tspan1018">Tiempo en familia</tspan></text>
+    <text
+       transform="rotate(267.378640776699) translate(291.6666666666667,0) rotate(180)"
+       id="text1024"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan1022">Votar en familia</tspan></text>
+    <text
+       transform="rotate(269.126213592233) translate(291.6666666666667,0) rotate(180)"
+       id="text1028"><tspan
+         x="0"
+         y="4"
+         style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal; font-style: italic;"
+         id="tspan1026">Tiempo Marilú-Mamá</tspan></text>
+  </g>
+</svg>
