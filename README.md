@@ -4,7 +4,8 @@ https://sayanymore.github.io/infovis/
 
 # Trabajo Practico
 
-* [¿Cuanto tiempo "de calidad" paso con mi hija?](https://public.tableau.com/views/Tp_v2/Historia?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+* [Tableau - ¿Cuanto tiempo "de calidad" paso con mi hija?](https://public.tableau.com/views/Tp_v2/Historia?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+* [RawGraph - ¿Cuanto tiempo "de calidad" paso con mi hija?](https://sayanymore.github.io/infovis/tp_rawgraphic.html)
 
 ## Bitacora de la materia.
 
